@@ -1,5 +1,5 @@
 {
-  "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578/manifest",
+  "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Sequence_letters.json",
   "@type": "sc:Manifest",
   "@context": "http://iiif.io/api/presentation/2/context.json",
   "logo": "https://ngcs-beta.staatsbibliothek-berlin.de/dc/logo-small",
