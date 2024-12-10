@@ -411,6 +411,17 @@
             }
           ]
         }
+        {
+    "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/annotation",
+    "@type": "oa:Annotation",
+    "motivation": "commenting",
+    "resource": {
+        "@type": "cnt:ContentAsText",
+        "format": "text/plain",
+        "chars": "this is a test"
+    },
+    "on": ""https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas"
+}
       ]
     }
   ]
