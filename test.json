@@ -1,0 +1,94 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Sequence_letters.json",
+    "type": "Manifest",
+    "label": {
+        "de": [
+            "Hensel, Wilhelm/Fanny Hensel: Briefsequenz aus der Verlobungszeit 1829"
+        ]
+    },
+    "metadata": [
+        {
+            "label": "Autor",
+            "value": [
+                "Hensel, Fanny",
+                "Hensel, Wilhelm"
+            ]
+        },
+        {
+            "label": "Titel",
+            "value": "Briefsequenz aus der Verlobungszeit von Fanny und Wilhelm Hensel, 1829"
+        },
+        {
+            "label": "Signaturen",
+            "value": [
+                "MA Depos. 3,6",
+                "MA Depos. 3,4"
+            ]
+        },
+        {
+            "label": "Sprache",
+            "value": "ger"
+        },
+        {
+            "label": "Lizenz",
+            "value": "Public Domain Mark 1.0"
+        }
+    ],
+    "items": [
+        {
+            "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas",
+            "label": " -  [243]",
+            "height": 900,
+            "width": 600,
+            "items": [
+                {
+                    "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/annotation",
+                    "@type": "AnnotationPage",
+                    "items": [
+            {
+              "id": "",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                        "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/full/full/0/default.jpg",
+                        "type": "dctypes:Image",
+                        "format": "",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "on": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas"
+                }
+            ],
+            "type": "canvas"
+        },
+        {
+            "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/canvas",
+            "label": " -  [242]",
+            "height": 900,
+            "width": 600,
+            "images": [
+                {
+                    "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/annotation",
+                    "@type": "oa:Annotation",
+                    "motivation": "",
+                    "resource": {
+                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "format": "",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242",
+                            "profile": "http://iiif.io/api/image/2/level1.json"
+                        }
+                    },
+                    "on": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/canvas"
+                }
+            ],
+            "type": "canvas"
+        }
+    ]
+}
