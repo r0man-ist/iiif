@@ -53,8 +53,7 @@
               "body": {
                         "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/full/full/0/default.jpg",
                         "type": "dctypes:Image",
-                        "format": "",
-                        "},
+                        "format": ""},
                     "on": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas"
                 }
             ],
