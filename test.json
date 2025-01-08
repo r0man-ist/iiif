@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Sequence_letters.json",
+    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/test.json",
     "type": "Manifest",
     "label": {
         "de": [
