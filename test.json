@@ -64,31 +64,6 @@
                 }
             ],
             "type": "canvas"
-        },
-        {
-            "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/canvas",
-            "label": " -  [242]",
-            "height": 900,
-            "width": 600,
-            "images": [
-                {
-                    "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/annotation",
-                    "@type": "oa:Annotation",
-                    "motivation": "",
-                    "resource": {
-                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/full/full/0/default.jpg",
-                        "@type": "dctypes:Image",
-                        "format": "",
-                        "service": {
-                            "@context": "http://iiif.io/api/image/2/context.json",
-                            "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242",
-                            "profile": "http://iiif.io/api/image/2/level1.json"
-                        }
-                    },
-                    "on": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/canvas"
-                }
-            ],
-            "type": "canvas"
         }
     ]
 }
