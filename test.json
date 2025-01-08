@@ -7,6 +7,11 @@
             "Hensel, Wilhelm/Fanny Hensel: Briefsequenz aus der Verlobungszeit 1829"
         ]
     },
+    "summary": {
+        "de": [
+            "Bei diesem virtuellen Objekt handelt es sich um eine Briefsequenz aus ..."
+        ]
+    },
     "metadata": [
         {
             "label": "Autor",
@@ -35,29 +40,99 @@
             "value": "Public Domain Mark 1.0"
         }
     ],
+    "provider": [
+        {
+            "id": "https://lab.sbb.berlin",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Stabi Lab"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://lab.sbb.berlin",
+                    "type": "Text",
+                    "label": {
+                        "de": [
+                            "Stabi Lab Homepage"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        }
+    ],
     "items": [
         {
-            "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas",
-            "label": " -  [243]",
+            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    " -  [243]"
+                ]
+            },
             "height": 900,
             "width": 600,
             "items": [
                 {
-                    "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/annotation",
+                    "id": "https://example.org/uuid/c512c46a-3887-41dc-a562-edb1c95e20f9",
                     "type": "AnnotationPage",
                     "items": [
-            {
-              "id": "rwgrq",
-              "type": "Annotation",
-              "motivation": "painting",
-              "body": {
-                        "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/full/full/0/default.jpg",
-                        "type": "Image",
-                        "format": ""},
-                    "on": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas"
+                        {
+                            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/annotation",
+                            "type": "Annotation",
+                            "target": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas",
+                            "body": {
+                                "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
                 }
-            ],
-            "type": "canvas"
+            ]
+        },
+        {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/canvas",
+            "type": "Canvas",
+            "label": {
+                "true": [
+                    " -  [242]"
+                ]
+            },
+            "height": 900,
+            "width": 600,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/9e3a877e-035c-4399-ad89-7cbea0d21d1c",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/annotation",
+                            "type": "Annotation",
+                            "target": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/canvas",
+                            "body": {
+                                "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
