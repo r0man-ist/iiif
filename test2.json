@@ -1,0 +1,67 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/test2.json",
+    "type": "Manifest",
+    "label": {
+        "de": [
+            "Rekonstruktion Yd7829"
+        ]
+    },
+    "summary": [
+        {
+            "label": "Zu diesem Objekt",
+            "value": "Bei diesem virtuellen Objekt handelt es sich um eine Rekonstruktion."
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Autor",
+            "value": [
+                "Hensel, Fanny",
+                "Hensel, Wilhelm"
+            ]
+        },
+        {
+            "label": "Titel",
+            "value": "Sammelband Yd7829"
+        },
+        {
+            "label": "Signatur",
+            "value": [
+                "Yd7829"
+            ]
+        },
+        {
+            "label": "Sprache",
+            "value": "ger"
+        },
+        {
+            "label": "Lizenz",
+            "value": "Public Domain Mark 1.0"
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://lab.sbb.berlin",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Stabi Lab"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://lab.sbb.berlin",
+                    "type": "Text",
+                    "label": {
+                        "de": [
+                            "Stabi Lab Homepage"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        }
+    ],
+    "items": []
+}
