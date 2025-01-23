@@ -6,320 +6,320 @@
   "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578/manifest",
   "type": "Manifest",
   "label": {
-    "true": [
+    "de": [
       "Hensel, Wilhelm: Briefe und Billets an Fanny Hensel aus der Verlobungszeit 1829"
     ]
   },
   "metadata": [
     {
       "label": {
-        "true": [
+        "de": [
           "Autor"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "Hensel, Wilhelm"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Titel"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "Briefe und Billets an Fanny Hensel aus der Verlobungszeit 1829"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Projekt"
         ]
       },
       "value": {
-        "true": [
-          "Nachl\u00c3\u00a4sse und Autographe digital"
+        "de": [
+          "Nachl\u00e4sse und Autographe digital"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "_digitalOrigin"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "reformatted digital"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "_electronicEdition"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "[Electronic ed.]"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "_placeOfElectronicOrigin"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "Berlin"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Bemerkung"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "P_SBB_Sondermat_Nachlaesse"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Bemerkung"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "108 Briefe und Billets"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "BibliographicReference"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "980511"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Digitalisierer"
         ]
       },
       "value": {
-        "true": [
-          "Staatsbibliothek zu Berlin - Preu\u00c3\u0178ischer Kulturbesitz, Germany"
+        "de": [
+          "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz, Germany"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Digitalisierungsdatum"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "2024"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Entstehungsjahr"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "1829"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Entstehungszeit"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "1829 [ermittelt]"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "has_fulltext"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           false
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Kalliope-Nummer"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "980511"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Kategorie"
         ]
       },
       "value": {
         "@none": [
           "Musik",
-          "Nachl\u00c3\u00a4sse und Autographe"
+          "Nachl\u00e4sse und Autographe"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Lizenz"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "Public Domain Mark 1.0"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "MediumType"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "text"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Persistente URL"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "https://resolver.staatsbibliothek-berlin.de/SBB00035DA100000000"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "PhysicalLocation"
         ]
       },
       "value": {
-        "true": [
-          "Staatsbibliothek zu Berlin - Preu\u00c3\u0178ischer Kulturbesitz, Berlin, Germany"
+        "de": [
+          "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz, Berlin, Germany"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "PlaceOfPublication"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "Berlin"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Signatur"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "MA Depos. 3,6"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Sprache"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "ger"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "StaBiKat (ppn digital)"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "PPN1880377578"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Titelblatt"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "PHYS_0001"
         ]
       }
     },
     {
       "label": {
-        "true": [
+        "de": [
           "Umfang"
         ]
       },
       "value": {
-        "true": [
+        "de": [
           "108 Briefe und Billets"
         ]
       }
@@ -336,7 +336,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0001/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "1r [1]"
         ]
       },
@@ -344,7 +344,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f08c37ad-4ea8-4262-b8ed-4198afd68f32",
+          "id": "https://example.org/uuid/612d5357-cfc5-45c9-bf20-7691ef0be146",
           "type": "AnnotationPage",
           "items": [
             {
@@ -371,7 +371,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0002/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "1v [2]"
         ]
       },
@@ -379,7 +379,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/dab85952-d1af-4e1a-a459-82897611f583",
+          "id": "https://example.org/uuid/4ffdf91e-62c2-4dc7-91de-ec7cf6d3e1dc",
           "type": "AnnotationPage",
           "items": [
             {
@@ -406,7 +406,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0003/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "1a/r [3]"
         ]
       },
@@ -414,7 +414,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/93dcefa0-dff0-45ea-b83f-23a7efc50d81",
+          "id": "https://example.org/uuid/52e66ab0-6f78-461d-bb1e-69c0889dcb86",
           "type": "AnnotationPage",
           "items": [
             {
@@ -441,7 +441,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0004/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "1a/v [4]"
         ]
       },
@@ -449,7 +449,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f27615d6-5889-495e-be8b-d5524e66262f",
+          "id": "https://example.org/uuid/5c304b5c-e38c-4e0f-a98c-7f0b3bd3f5cf",
           "type": "AnnotationPage",
           "items": [
             {
@@ -476,7 +476,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0005/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "2r [5]"
         ]
       },
@@ -484,7 +484,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/0687e70a-e780-4e7b-907f-f9fd9212b033",
+          "id": "https://example.org/uuid/8a8f0b28-7fab-4ce7-8751-8372644c5500",
           "type": "AnnotationPage",
           "items": [
             {
@@ -511,7 +511,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0006/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "2v [6]"
         ]
       },
@@ -519,7 +519,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/43cc14cd-f383-4ea3-8865-97d1cb5c75aa",
+          "id": "https://example.org/uuid/aecdc8d0-a6f3-48b5-b407-50fc56684b72",
           "type": "AnnotationPage",
           "items": [
             {
@@ -546,7 +546,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0007/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "2a/r [7]"
         ]
       },
@@ -554,7 +554,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/90438ea0-f4fc-44c1-a593-f9dbfa1a2a63",
+          "id": "https://example.org/uuid/f9d1d8ac-4ce2-4b7b-b32f-e071098a5472",
           "type": "AnnotationPage",
           "items": [
             {
@@ -581,7 +581,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0008/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "2a/v [8]"
         ]
       },
@@ -589,7 +589,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/384081b8-b50a-49ce-8e1b-a145b35a8763",
+          "id": "https://example.org/uuid/3a23a453-6b3d-46cc-9425-532d34e31201",
           "type": "AnnotationPage",
           "items": [
             {
@@ -616,7 +616,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0009/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "3r [9]"
         ]
       },
@@ -624,7 +624,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/23fac445-fa29-425b-8917-c09af713eda6",
+          "id": "https://example.org/uuid/8587546f-fb2e-4484-bf79-5e509e1f38ab",
           "type": "AnnotationPage",
           "items": [
             {
@@ -651,7 +651,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0010/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "3v [10]"
         ]
       },
@@ -659,7 +659,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/cdad7146-79a5-4e96-ae16-b62b3753faa9",
+          "id": "https://example.org/uuid/3fedea1c-856c-4228-b73a-b379342b24a7",
           "type": "AnnotationPage",
           "items": [
             {
@@ -686,7 +686,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0011/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "3a/r [11]"
         ]
       },
@@ -694,7 +694,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/77e69151-af90-4100-9237-ace027df5d9a",
+          "id": "https://example.org/uuid/fcbfa02b-427f-48d7-a8b9-79b562ba7431",
           "type": "AnnotationPage",
           "items": [
             {
@@ -721,7 +721,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0012/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "3a/v [12]"
         ]
       },
@@ -729,7 +729,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f48f4ddb-b032-46d0-b998-d5ab9f9cfee8",
+          "id": "https://example.org/uuid/cbe40b9b-e187-450d-b7fc-64562ddc0b99",
           "type": "AnnotationPage",
           "items": [
             {
@@ -756,7 +756,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0013/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "4r [13]"
         ]
       },
@@ -764,7 +764,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/359d9b74-5452-45a2-8699-8be45f97cc9a",
+          "id": "https://example.org/uuid/5fb625f4-cc12-49e5-8dc7-3cfdb31926b9",
           "type": "AnnotationPage",
           "items": [
             {
@@ -791,7 +791,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0014/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "4v [14]"
         ]
       },
@@ -799,7 +799,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2beade90-e91e-47a2-bd48-d611c5067c69",
+          "id": "https://example.org/uuid/1fae86c4-88c7-45d1-977a-c7ca12561275",
           "type": "AnnotationPage",
           "items": [
             {
@@ -826,7 +826,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0015/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "4a/r [15]"
         ]
       },
@@ -834,7 +834,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/19185edf-0230-4883-9c28-07b5f0bc3a4b",
+          "id": "https://example.org/uuid/4ab9fbef-1856-4a93-86db-f9d105e7691b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -861,7 +861,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0016/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "4a/v [16]"
         ]
       },
@@ -869,7 +869,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/57ccc839-911f-49ba-8380-950f80639352",
+          "id": "https://example.org/uuid/a5661e62-892c-408a-b391-30b1ca606840",
           "type": "AnnotationPage",
           "items": [
             {
@@ -896,7 +896,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0017/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "5r [17]"
         ]
       },
@@ -904,7 +904,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f0b70bb3-d3df-4a49-aec3-9c0b2eafb4d2",
+          "id": "https://example.org/uuid/c2112a66-0680-4ba3-ba18-20ff574f1ea8",
           "type": "AnnotationPage",
           "items": [
             {
@@ -931,7 +931,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0018/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "5v [18]"
         ]
       },
@@ -939,7 +939,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d89bae91-a767-4b70-baa3-62a6b0ddf42d",
+          "id": "https://example.org/uuid/f1f195d6-8105-4e22-8b3d-e1c400016d34",
           "type": "AnnotationPage",
           "items": [
             {
@@ -966,7 +966,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0019/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "5a/r [19]"
         ]
       },
@@ -974,7 +974,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ffa040a2-9dd4-489f-8b42-91e09263a897",
+          "id": "https://example.org/uuid/5fe18a41-04f9-4776-a2bc-3c3541a43cbb",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1001,7 +1001,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0020/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "5a/v [20]"
         ]
       },
@@ -1009,7 +1009,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f21da80a-8428-4e5a-a65d-c458209e31c3",
+          "id": "https://example.org/uuid/f6a13675-882c-42af-84cd-5b081005d071",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1036,7 +1036,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0021/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "6r [21]"
         ]
       },
@@ -1044,7 +1044,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d0696a3e-94a2-4c32-ac69-4bf5acf3c243",
+          "id": "https://example.org/uuid/bdbb57cb-b4b1-4704-9c71-70c5d3a6f8f5",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1071,7 +1071,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0022/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "6v [22]"
         ]
       },
@@ -1079,7 +1079,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/21c13edc-7ef3-42e1-a938-c51a9c26f1f1",
+          "id": "https://example.org/uuid/6eabcd45-78f3-40c4-b23a-2b597f13f60c",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1106,7 +1106,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0023/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "7r [23]"
         ]
       },
@@ -1114,7 +1114,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/8a7658fd-4b96-4d2d-9656-9d44abe6226f",
+          "id": "https://example.org/uuid/e3bcbea7-5515-47ea-96c6-56d1540e81c2",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1141,7 +1141,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0024/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "7v [24]"
         ]
       },
@@ -1149,7 +1149,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/cd8c70e5-4e27-4a4b-b258-769ef5d157a9",
+          "id": "https://example.org/uuid/84afef58-5181-485f-bf81-a4cce1f057c3",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1176,7 +1176,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0025/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "8r [25]"
         ]
       },
@@ -1184,7 +1184,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/e2f6f41d-908d-474c-9284-f7826352129c",
+          "id": "https://example.org/uuid/862e8722-2c5d-4ebf-a63b-640c64c21479",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1211,7 +1211,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0026/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "8v [26]"
         ]
       },
@@ -1219,7 +1219,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d9002165-3f4c-4eb3-a951-37fa0abb3c4a",
+          "id": "https://example.org/uuid/bccd5616-a574-4671-ab05-211d9ddea092",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1246,7 +1246,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0027/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "9r [27]"
         ]
       },
@@ -1254,7 +1254,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/083ed2ac-5b1e-4dd7-bcab-23f10a1cda15",
+          "id": "https://example.org/uuid/d5215891-d410-4dd6-9ae5-63d40c6acc04",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1281,7 +1281,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0028/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "9v [28]"
         ]
       },
@@ -1289,7 +1289,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/50ed56c0-626a-4eda-ade2-238185233660",
+          "id": "https://example.org/uuid/28e7908a-524a-449f-a86e-cb5d4228c35b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1316,7 +1316,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0029/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "10r [29]"
         ]
       },
@@ -1324,7 +1324,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9105db41-e6d9-4cf6-bca2-cca272ea449d",
+          "id": "https://example.org/uuid/df98cf2b-5b13-4ae3-b425-3d1cb66ee796",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1351,7 +1351,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0030/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "10v [30]"
         ]
       },
@@ -1359,7 +1359,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/4453bc81-fe15-4a36-9d74-128d8b97c289",
+          "id": "https://example.org/uuid/7aea45ac-996a-4d0a-9da0-33035844432b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1386,7 +1386,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0031/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "11r [31]"
         ]
       },
@@ -1394,7 +1394,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a63d7559-8d28-451e-9e64-f58c3305e58f",
+          "id": "https://example.org/uuid/48c82097-fdde-401e-b876-3e35ce7f537d",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1421,7 +1421,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0032/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "11v [32]"
         ]
       },
@@ -1429,7 +1429,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a1df5569-636d-40a1-87cb-e5611a26c3e3",
+          "id": "https://example.org/uuid/ab42173f-5a3f-42c1-8eaa-ad75bbf4f8d3",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1456,7 +1456,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0033/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "12r [33]"
         ]
       },
@@ -1464,7 +1464,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/efed8236-d4a7-49b2-a622-7eea78fbd8b3",
+          "id": "https://example.org/uuid/d96bc987-fdac-410a-ab03-3ce071885380",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1491,7 +1491,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0034/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "12v [34]"
         ]
       },
@@ -1499,7 +1499,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d5bb2d33-fb73-4ac3-80f5-1cf8384e35f7",
+          "id": "https://example.org/uuid/58f26e18-f8f4-47d1-80a9-3b7249086435",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1526,7 +1526,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0035/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "13r [35]"
         ]
       },
@@ -1534,7 +1534,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a50882e1-dfd7-4eaf-acca-868d675bb5f0",
+          "id": "https://example.org/uuid/8a594702-55f8-4075-9548-2545c31bd212",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1561,7 +1561,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0036/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "13v [36]"
         ]
       },
@@ -1569,7 +1569,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2b20cd46-6ac4-4792-8253-0a5a528a0686",
+          "id": "https://example.org/uuid/42bf0276-08b6-4b42-8398-59a27af6680a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1596,7 +1596,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0037/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "14r [37]"
         ]
       },
@@ -1604,7 +1604,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/6b2bda99-7992-4976-98cd-4359f157df63",
+          "id": "https://example.org/uuid/c6130f13-c691-4dcb-9b92-789c264931f6",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1631,7 +1631,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0038/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "14v [38]"
         ]
       },
@@ -1639,7 +1639,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/30fb91ca-2591-48c8-b965-66a1d7583098",
+          "id": "https://example.org/uuid/21cd0ea7-4841-4ab1-ab24-2189fd0268c4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1666,7 +1666,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0039/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "15r [39]"
         ]
       },
@@ -1674,7 +1674,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/3f0e9970-7810-480f-8a82-9ab036caf270",
+          "id": "https://example.org/uuid/b4c8cf25-a288-45ea-9726-0a9293279728",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1701,7 +1701,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0040/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "15v [40]"
         ]
       },
@@ -1709,7 +1709,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/8e9334a4-9e7d-4669-93ee-688b5e3a4131",
+          "id": "https://example.org/uuid/1845df95-1652-40cf-b687-321731f3dbe2",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1736,7 +1736,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0041/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "16r [41]"
         ]
       },
@@ -1744,7 +1744,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9aa8a283-628f-4c26-b4fa-a8c8d054532a",
+          "id": "https://example.org/uuid/289ef64e-7cc7-43b0-9483-4a5d2ddce18e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1771,7 +1771,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0042/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "16v [42]"
         ]
       },
@@ -1779,7 +1779,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ddb00710-e9f9-42cf-a027-d85ff13f1c22",
+          "id": "https://example.org/uuid/ac81a9b5-4bfb-4692-b014-65de8f287abb",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1806,7 +1806,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0043/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "17r [43]"
         ]
       },
@@ -1814,7 +1814,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ad27a1f2-e1ba-45d0-8653-a92100ea3d53",
+          "id": "https://example.org/uuid/74c8425e-3746-49ca-9a54-bebd2dd1d251",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1841,7 +1841,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0044/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "17v [44]"
         ]
       },
@@ -1849,7 +1849,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/4c345b27-2d53-4c76-b20e-0cd435628879",
+          "id": "https://example.org/uuid/dbc3232a-195c-4e5d-adfe-b93c0a39eb8f",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1876,7 +1876,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0045/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "18r [45]"
         ]
       },
@@ -1884,7 +1884,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/43360380-449f-4679-975e-fb674b80589d",
+          "id": "https://example.org/uuid/779a8c1b-c9ca-4b44-83af-ac778658dddd",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1911,7 +1911,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0046/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "18v [46]"
         ]
       },
@@ -1919,7 +1919,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/43a40173-ee6e-428d-a93c-4eb0f8218224",
+          "id": "https://example.org/uuid/f88af3f8-9cb3-47a8-bb09-0c1242dd3c92",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1946,7 +1946,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0047/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "19r [47]"
         ]
       },
@@ -1954,7 +1954,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f8f1507b-82a9-4794-9e73-508989424f3d",
+          "id": "https://example.org/uuid/e8c8fbb0-a258-4c67-977a-214a43cdf5c8",
           "type": "AnnotationPage",
           "items": [
             {
@@ -1981,7 +1981,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0048/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "19v [48]"
         ]
       },
@@ -1989,7 +1989,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/1771c7d1-9ff4-45f4-9e54-8f29fd717f57",
+          "id": "https://example.org/uuid/87f0b181-9b49-448c-9ab2-eb930af63de9",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2016,7 +2016,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0049/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "20r [49]"
         ]
       },
@@ -2024,7 +2024,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ea56700f-97f1-476c-979d-c1dddc269067",
+          "id": "https://example.org/uuid/0597b823-ac72-45e2-99b1-b04f556a277b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2051,7 +2051,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0050/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "20v [50]"
         ]
       },
@@ -2059,7 +2059,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/1822903b-c5ab-410f-a88b-1f8e9c070f8e",
+          "id": "https://example.org/uuid/532147d6-9de5-46ec-a27b-132b5db529eb",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2086,7 +2086,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0051/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "21r [51]"
         ]
       },
@@ -2094,7 +2094,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/30ccbc70-464c-4cc4-93cb-11a2daceffb3",
+          "id": "https://example.org/uuid/c50dd144-53ed-4a54-b7e0-7ebd0e818762",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2121,7 +2121,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0052/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "21v [52]"
         ]
       },
@@ -2129,7 +2129,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/24ba874e-1176-438b-aab7-3a654be4d901",
+          "id": "https://example.org/uuid/dfca7e3d-c133-4668-8b91-5800e38dd1be",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2156,7 +2156,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0053/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "22r [53]"
         ]
       },
@@ -2164,7 +2164,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/57d0b26f-818e-4323-a89f-320b50d80d08",
+          "id": "https://example.org/uuid/5c9c2705-96f8-48d4-9cec-3124fb1c407e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2191,7 +2191,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0054/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "22v [54]"
         ]
       },
@@ -2199,7 +2199,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9575d15f-6fff-4424-a153-f3656d1e14db",
+          "id": "https://example.org/uuid/eb50c7bb-e273-4b76-972a-8b4cd036d5ac",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2226,7 +2226,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0055/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "23r [55]"
         ]
       },
@@ -2234,7 +2234,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/392986c9-2fa1-4758-9976-0c6412418371",
+          "id": "https://example.org/uuid/2f865e36-bdb1-4129-a708-92784d8b374e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2261,7 +2261,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0056/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "23v [56]"
         ]
       },
@@ -2269,7 +2269,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/be777e5a-6254-420f-ac31-f7cd978c6e12",
+          "id": "https://example.org/uuid/bfe4db09-5e7c-4378-b07c-69e6f4ae0309",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2296,7 +2296,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0057/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "24r [57]"
         ]
       },
@@ -2304,7 +2304,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2a0c8412-bd46-4ed8-b96e-b2cc9a58675b",
+          "id": "https://example.org/uuid/af1fbc06-22a1-4b2c-af37-08d5521b271a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2331,7 +2331,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0058/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "24v [58]"
         ]
       },
@@ -2339,7 +2339,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/fc9898c9-93b4-4ee5-8edc-48807730fc22",
+          "id": "https://example.org/uuid/f5bc44d0-5f8c-4e72-835f-c6c202f96945",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2366,7 +2366,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0059/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "25r [59]"
         ]
       },
@@ -2374,7 +2374,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/93cb46cf-9164-406f-b93a-854323bca08d",
+          "id": "https://example.org/uuid/7ba4c6ac-0872-4711-bdec-76d8befdb959",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2401,7 +2401,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0060/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "25v [60]"
         ]
       },
@@ -2409,7 +2409,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/65acb4bd-0a5f-4ef2-b7e2-609362eec246",
+          "id": "https://example.org/uuid/efa82c26-212f-42d8-9756-94e38e2e8137",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2436,7 +2436,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0061/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "26r [61]"
         ]
       },
@@ -2444,7 +2444,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ec8f4c5b-a2b0-46d6-b91c-158b5824bcb2",
+          "id": "https://example.org/uuid/4efbe2fa-653d-40ad-adea-1ac6093efe91",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2471,7 +2471,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0062/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "26v [62]"
         ]
       },
@@ -2479,7 +2479,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/b5091562-26ce-4b6d-8c39-e4ebaf5bb546",
+          "id": "https://example.org/uuid/07c701f7-e2d8-433c-829f-01c1b1892508",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2506,7 +2506,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0063/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "27r [63]"
         ]
       },
@@ -2514,7 +2514,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/85032db4-c4b5-4c00-80f8-2c402b73b767",
+          "id": "https://example.org/uuid/9f1ac681-e52b-4be8-8c13-b83f58198ad5",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2541,7 +2541,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0064/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "27v [64]"
         ]
       },
@@ -2549,7 +2549,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a3a0cc4e-0c49-46c0-bc5a-b0c8d3932dd3",
+          "id": "https://example.org/uuid/8f480b84-7884-47fc-ae5d-5c38fdfa9560",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2576,7 +2576,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0065/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "28r [65]"
         ]
       },
@@ -2584,7 +2584,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/e2fc8003-9a32-4e18-ba72-56c2bd403427",
+          "id": "https://example.org/uuid/9b271d5c-21ab-45a8-8dd2-0197bf5915a0",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2611,7 +2611,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0066/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "28v [66]"
         ]
       },
@@ -2619,7 +2619,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2fecddeb-3250-405e-b398-849878b836b9",
+          "id": "https://example.org/uuid/8fdba0fc-7b44-4d8e-abff-7b0c5598f2a1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2646,7 +2646,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0067/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "29r [67]"
         ]
       },
@@ -2654,7 +2654,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/318d964e-bd03-48e2-b5f4-1aed8bef8aff",
+          "id": "https://example.org/uuid/05de758d-be81-4a9f-aecb-89f576c122c1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2681,7 +2681,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0068/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "29v [68]"
         ]
       },
@@ -2689,7 +2689,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/26434031-b89b-4c9d-a070-8dce8829361d",
+          "id": "https://example.org/uuid/2706c2e5-d584-453b-bdf2-5d8f72fa43cf",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2716,7 +2716,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0069/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "30r [69]"
         ]
       },
@@ -2724,7 +2724,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/84691974-d5fa-497d-82bb-b9a02e1de6d0",
+          "id": "https://example.org/uuid/9a1529af-0175-4c1e-adb6-2f79a3d4f31b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2751,7 +2751,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0070/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "30v [70]"
         ]
       },
@@ -2759,7 +2759,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/74125b8f-34fa-4e72-a02b-937d2ede4c8c",
+          "id": "https://example.org/uuid/f358287e-8851-4bd6-bc9d-e0fa113572a1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2786,7 +2786,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0071/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "31r [71]"
         ]
       },
@@ -2794,7 +2794,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/27c52534-6e8e-44b0-b7a2-0ba3659e8b43",
+          "id": "https://example.org/uuid/4334493f-8007-4633-a214-6c39f17105b3",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2821,7 +2821,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0072/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "31v [72]"
         ]
       },
@@ -2829,7 +2829,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9e8fc5ae-ea67-44c6-823b-222e87f6a957",
+          "id": "https://example.org/uuid/99e3be54-212d-4ac6-b871-4e99f5c5bb21",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2856,7 +2856,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0073/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "32r [73]"
         ]
       },
@@ -2864,7 +2864,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/3e2bf2e6-77b9-409b-88d8-c5d57169eab8",
+          "id": "https://example.org/uuid/a0049416-62fb-4339-9e7e-ba5f58ab5662",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2891,7 +2891,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0074/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "32v [74]"
         ]
       },
@@ -2899,7 +2899,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a83a901a-6add-4f0f-ba8a-4776cf6aa5f3",
+          "id": "https://example.org/uuid/2bd9bcec-7c8a-4c99-8316-689e429fdb58",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2926,7 +2926,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0075/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "33r [75]"
         ]
       },
@@ -2934,7 +2934,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/eb1e3a3b-ae66-419b-8b1f-d26bbdc6474d",
+          "id": "https://example.org/uuid/18a4d10d-a639-4277-9df6-38d85ff33568",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2961,7 +2961,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0076/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "33v [76]"
         ]
       },
@@ -2969,7 +2969,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/8812ce8c-402e-4889-a3e4-6546dcff55cf",
+          "id": "https://example.org/uuid/57db834b-cfad-4d3c-856c-2bdebf65cbbb",
           "type": "AnnotationPage",
           "items": [
             {
@@ -2996,7 +2996,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0077/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "34r [77]"
         ]
       },
@@ -3004,7 +3004,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2ecb5a6b-6dda-497d-ab78-945bfda2301d",
+          "id": "https://example.org/uuid/be445f6b-214e-4cbf-90a2-c2313493a414",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3031,7 +3031,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0078/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "34v [78]"
         ]
       },
@@ -3039,7 +3039,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/10ee34e5-709a-4f4f-88c8-d521fddc9d00",
+          "id": "https://example.org/uuid/070a592a-77b9-48a0-a97f-583751202088",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3066,7 +3066,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0079/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "35r [79]"
         ]
       },
@@ -3074,7 +3074,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/197f0d62-25d3-4515-9b46-f6928e9e0491",
+          "id": "https://example.org/uuid/7b690fb3-e956-4160-8053-ede5fb47b6ac",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3101,7 +3101,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0080/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "35v [80]"
         ]
       },
@@ -3109,7 +3109,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/7234d115-eaab-47c0-b945-130991b5ba64",
+          "id": "https://example.org/uuid/10994754-be80-43b2-917e-6c319f13f2cb",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3136,7 +3136,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0081/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "36r [81]"
         ]
       },
@@ -3144,7 +3144,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d7b1b7df-ce36-4580-919c-e97b6a6bfd80",
+          "id": "https://example.org/uuid/20b36cda-4b0a-4621-af6c-799be8bd0021",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3171,7 +3171,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0082/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "36v [82]"
         ]
       },
@@ -3179,7 +3179,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/57924e8f-7872-483e-8051-7f67bc784c3b",
+          "id": "https://example.org/uuid/eaaf27ab-0ad7-4b6a-a2ef-4279415326bd",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3206,7 +3206,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0083/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "37r [83]"
         ]
       },
@@ -3214,7 +3214,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ffb23ec1-ab2c-4205-a780-9aac4aa71a84",
+          "id": "https://example.org/uuid/931eb0e4-113a-41f8-a48c-d3ed5139369e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3241,7 +3241,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0084/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "37v [84]"
         ]
       },
@@ -3249,7 +3249,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/e6ce34c0-88cb-4a60-82a5-0121c404d089",
+          "id": "https://example.org/uuid/ffcbb659-1971-4bf4-a049-a7fa748976de",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3276,7 +3276,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0085/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "38r [85]"
         ]
       },
@@ -3284,7 +3284,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/acc21d95-333e-4982-8609-b2414c43c6a3",
+          "id": "https://example.org/uuid/55d5e766-6a24-4284-9037-cfbdf7438964",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3311,7 +3311,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0086/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "38v [86]"
         ]
       },
@@ -3319,7 +3319,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ce80d4db-1705-4331-9f67-84f09e66ba45",
+          "id": "https://example.org/uuid/fd5cff97-02f9-475f-9aea-fdd5add67852",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3346,7 +3346,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0087/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "39r [87]"
         ]
       },
@@ -3354,7 +3354,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a7a85d7e-06aa-4f6c-a641-6165cd845ff9",
+          "id": "https://example.org/uuid/7a111096-99a7-4f9e-a930-8339533c1fb6",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3381,7 +3381,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0088/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "39v [88]"
         ]
       },
@@ -3389,7 +3389,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/4b339775-17f1-4c01-a42f-2957f4dd1343",
+          "id": "https://example.org/uuid/62a68080-e8ab-4ed4-b51e-0f59d67d08df",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3416,7 +3416,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0089/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "40r [89]"
         ]
       },
@@ -3424,7 +3424,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a3bdbd71-fb90-4811-8b29-e2c56745d56f",
+          "id": "https://example.org/uuid/6a9a571c-7ccf-4057-b4eb-b781fe31ab6d",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3451,7 +3451,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0090/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "40v [90]"
         ]
       },
@@ -3459,7 +3459,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/4d6e7584-365f-47f5-bd33-18936a6ee0db",
+          "id": "https://example.org/uuid/8210318b-79ba-4ea1-80bc-77bf3265f496",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3486,7 +3486,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0091/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "41r [91]"
         ]
       },
@@ -3494,7 +3494,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2898c3df-733d-41aa-8353-4d31c9faac64",
+          "id": "https://example.org/uuid/8f88fbbb-da50-42e2-8810-01f2ac5bc68a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3521,7 +3521,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0092/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "41v [92]"
         ]
       },
@@ -3529,7 +3529,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/b49b169f-cb1e-4366-8fd7-02ce1d59f75a",
+          "id": "https://example.org/uuid/abd5e6d6-2cfe-4002-86a4-d71e225e52b4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3556,7 +3556,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0093/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "42r [93]"
         ]
       },
@@ -3564,7 +3564,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/b83d9be4-ef64-405b-b089-285f68bcc77f",
+          "id": "https://example.org/uuid/245622f8-3e27-40b7-a8dd-df1923a7f662",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3591,7 +3591,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0094/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "42v [94]"
         ]
       },
@@ -3599,7 +3599,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/80cbc86a-43f2-473d-8cb0-99f12908fea9",
+          "id": "https://example.org/uuid/1221a3ad-b77a-45c7-b5c7-aca5c95de98b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3626,7 +3626,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0095/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "43r [95]"
         ]
       },
@@ -3634,7 +3634,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/70d3b9bb-0bb2-41db-8657-1d69fa5a3186",
+          "id": "https://example.org/uuid/28573f63-4349-4fdb-b408-202039c90ee4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3661,7 +3661,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0096/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "43v [96]"
         ]
       },
@@ -3669,7 +3669,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/5a9d0e7f-d74f-4159-8c5b-20722e2b1bd2",
+          "id": "https://example.org/uuid/21f0a2e1-45c2-456a-a6d6-d6eb2b6cbb0f",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3696,7 +3696,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0097/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "44r [97]"
         ]
       },
@@ -3704,7 +3704,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/6cec6b6c-5557-4b21-8750-01fad6908ecc",
+          "id": "https://example.org/uuid/36867f2a-92b2-41e9-9ea6-aa86e6fbefe2",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3731,7 +3731,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0098/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "44v [98]"
         ]
       },
@@ -3739,7 +3739,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/99c749b4-e2fb-4ec8-bb94-1d3a80e94f3c",
+          "id": "https://example.org/uuid/3ebd281d-c9ce-42c7-8107-e901a0c04ba9",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3766,7 +3766,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0099/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "45r [99]"
         ]
       },
@@ -3774,7 +3774,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d8215ced-c58b-4abd-88ab-720106b39e84",
+          "id": "https://example.org/uuid/cb1823f3-3c98-48a2-adc8-f5f7d2f3bf2a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3801,7 +3801,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0100/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "45v [100]"
         ]
       },
@@ -3809,7 +3809,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ad733dc6-2c7d-4871-94e2-835f3659dbf1",
+          "id": "https://example.org/uuid/61b86d20-2aaf-4bdf-b9b4-e6706a149396",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3836,7 +3836,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0101/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "46r [101]"
         ]
       },
@@ -3844,7 +3844,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/e272238e-938b-4475-b998-326f086fc5e3",
+          "id": "https://example.org/uuid/9ff9bb6e-c161-42fb-8111-401bf04956ce",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3871,7 +3871,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0102/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "46v [102]"
         ]
       },
@@ -3879,7 +3879,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/46407ed5-bf5a-444c-94b2-18241b8ebc13",
+          "id": "https://example.org/uuid/b6f63e8f-73eb-4b14-b4c8-094e4230bba1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3906,7 +3906,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0103/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "47r [103]"
         ]
       },
@@ -3914,7 +3914,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/c2d5035a-1d00-4b9a-b34a-156cbe8407b6",
+          "id": "https://example.org/uuid/0290222d-9397-4cd6-b2e3-6ef8a90c673f",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3941,7 +3941,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0104/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "47v [104]"
         ]
       },
@@ -3949,7 +3949,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/8eaa90ae-ee81-43fe-b27a-a73124e50b38",
+          "id": "https://example.org/uuid/085f0838-5b3f-474b-8262-675daabaf198",
           "type": "AnnotationPage",
           "items": [
             {
@@ -3976,7 +3976,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0105/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "48r [105]"
         ]
       },
@@ -3984,7 +3984,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/57da9df7-5964-41d3-bfe2-2a6934aee74b",
+          "id": "https://example.org/uuid/c0232a0a-0d7e-4744-bcf2-50c62bb8d8a9",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4011,7 +4011,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0106/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "48v [106]"
         ]
       },
@@ -4019,7 +4019,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/249636ae-d96f-4aa0-b3b5-583a02734520",
+          "id": "https://example.org/uuid/75b8562c-a064-452f-818e-b6592c6cb0b6",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4046,7 +4046,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0107/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "49r [107]"
         ]
       },
@@ -4054,7 +4054,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ddb0b8e9-2f8b-4671-99ab-15775b541646",
+          "id": "https://example.org/uuid/b1390ef5-1edb-45ab-ab33-f624dbde57ab",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4081,7 +4081,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0108/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "49v [108]"
         ]
       },
@@ -4089,7 +4089,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/6b993475-a767-42fc-b717-bfdd344ecde4",
+          "id": "https://example.org/uuid/c411ba3a-e1a7-4497-a935-014d1c2b3f87",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4116,7 +4116,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0109/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "50r [109]"
         ]
       },
@@ -4124,7 +4124,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/3c29aaef-a5b9-4e52-9492-46bce5604684",
+          "id": "https://example.org/uuid/902c0163-2dbe-45e0-a084-868ba54da5e7",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4151,7 +4151,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0110/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "50v [110]"
         ]
       },
@@ -4159,7 +4159,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a0f5c386-f13c-4b6a-a3a3-cc461811026d",
+          "id": "https://example.org/uuid/5efa1312-9599-482b-a9f0-bb544e74a16b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4186,7 +4186,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0111/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "51r [111]"
         ]
       },
@@ -4194,7 +4194,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/1a0b31f4-fab9-46d1-9174-24a6209813ec",
+          "id": "https://example.org/uuid/38ece60b-5e99-443b-a64c-cf9db1eadd9b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4221,7 +4221,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0112/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "51v [112]"
         ]
       },
@@ -4229,7 +4229,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/36945687-adf4-4f96-bfb9-c4e6aefe8be0",
+          "id": "https://example.org/uuid/c9d6fd99-97db-4b86-b05e-e0de62ada7d0",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4256,7 +4256,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0113/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "52r [113]"
         ]
       },
@@ -4264,7 +4264,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/dff1ccf4-10f5-4968-b985-2d3296d99aa4",
+          "id": "https://example.org/uuid/02cb8c63-1172-40cb-917c-9c2e404e56ff",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4291,7 +4291,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0114/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "52v [114]"
         ]
       },
@@ -4299,7 +4299,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/13708d30-f551-41b4-876b-2b1e7f5a01d5",
+          "id": "https://example.org/uuid/d29a1493-28ad-4171-886f-a48cec0c8055",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4326,7 +4326,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0115/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "53r [115]"
         ]
       },
@@ -4334,7 +4334,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2135fe6a-35ae-4bad-b8e8-6a584811bd1b",
+          "id": "https://example.org/uuid/df628f92-b5da-4d1a-b21c-9b77bbc42b13",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4361,7 +4361,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0116/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "53v [116]"
         ]
       },
@@ -4369,7 +4369,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/030e1fd6-41f9-48fa-b93e-5bab360a5802",
+          "id": "https://example.org/uuid/19733254-e5e2-43b7-8877-fea443cf59a5",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4396,7 +4396,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0117/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "54r [117]"
         ]
       },
@@ -4404,7 +4404,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/94373870-37a6-4857-94ab-6186b9d89004",
+          "id": "https://example.org/uuid/1e6e817a-0652-421e-a288-75f7bb545ec4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4431,7 +4431,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0118/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "54v [118]"
         ]
       },
@@ -4439,7 +4439,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/94e41fbb-f103-42ea-98d5-82dddc12545e",
+          "id": "https://example.org/uuid/e03575b5-16b6-46d1-b9dd-0326b673520b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4466,7 +4466,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0119/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "55r [119]"
         ]
       },
@@ -4474,7 +4474,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d4949550-0e23-41e4-b4d5-dfcea8705f4b",
+          "id": "https://example.org/uuid/64d41d98-06e8-4dcd-b21f-88b963ef9034",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4501,7 +4501,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0120/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "55v [120]"
         ]
       },
@@ -4509,7 +4509,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2724c373-c2e2-4894-8531-030eff221f50",
+          "id": "https://example.org/uuid/fd48456c-f71f-494b-9e7c-3ce91a99f57a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4536,7 +4536,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0121/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "56r [121]"
         ]
       },
@@ -4544,7 +4544,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d3cec06b-b159-4978-ad4d-49c6f910a9c0",
+          "id": "https://example.org/uuid/d043b99d-248f-4bf3-b9ab-a8b7db944d86",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4571,7 +4571,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0122/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "56v [122]"
         ]
       },
@@ -4579,7 +4579,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/c610d194-3d07-49cf-9c1b-a59d96f00e25",
+          "id": "https://example.org/uuid/6a85018c-b1ee-48cd-b501-36b5696e4178",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4606,7 +4606,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0123/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "57r [123]"
         ]
       },
@@ -4614,7 +4614,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/12851ff9-3546-470a-8d1e-23a6d9e98932",
+          "id": "https://example.org/uuid/a0f3646e-fe15-4c75-94f9-e06e9c2384c2",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4641,7 +4641,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0124/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "57v [124]"
         ]
       },
@@ -4649,7 +4649,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/c5d024e5-944c-43dd-8dc5-eb3fa1367907",
+          "id": "https://example.org/uuid/6dec14fc-e87d-4f62-91bb-087b6ea50576",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4676,7 +4676,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0125/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "57r [125]"
         ]
       },
@@ -4684,7 +4684,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/45d1a1e4-4984-457b-b969-8793c4fe106b",
+          "id": "https://example.org/uuid/8add570a-8d96-4e0d-8299-d336c07b2bad",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4711,7 +4711,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0126/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "57v [126]"
         ]
       },
@@ -4719,7 +4719,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/409e8fe4-7f88-499d-b593-499ef7c53733",
+          "id": "https://example.org/uuid/2515a78c-c901-4c29-b62c-a52573424482",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4746,7 +4746,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0127/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "58r [127]"
         ]
       },
@@ -4754,7 +4754,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/e679bb2a-6f52-4fbd-a124-b292d0f0d436",
+          "id": "https://example.org/uuid/f57b8aa1-f19c-4459-b420-e77be075e68b",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4781,7 +4781,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0128/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "58v [128]"
         ]
       },
@@ -4789,7 +4789,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9cb3ebf7-cab8-4db1-99db-36ce3da1c024",
+          "id": "https://example.org/uuid/dd8ae535-ffa1-4962-bb84-bb445202d045",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4816,7 +4816,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0129/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "59r [129]"
         ]
       },
@@ -4824,7 +4824,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/868cca13-d977-4c52-9375-959963b4bc96",
+          "id": "https://example.org/uuid/ca754fd9-9ce3-48e3-b122-b12e5a925850",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4851,7 +4851,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0130/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "59v [130]"
         ]
       },
@@ -4859,7 +4859,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/08ac936b-df38-43b3-92e0-5798fd4ee13a",
+          "id": "https://example.org/uuid/9d3b8bee-6d9b-4874-8310-223d1b539aba",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4886,7 +4886,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0131/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "60r [131]"
         ]
       },
@@ -4894,7 +4894,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/90f4b250-dd14-4a72-be03-b2b6f169ff83",
+          "id": "https://example.org/uuid/b9b231c5-d5d7-4683-bf2b-e4ce39474910",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4921,7 +4921,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0132/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "60v [132]"
         ]
       },
@@ -4929,7 +4929,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/652d8fb8-57a1-4d6a-bb2b-8bf7a35d6d3c",
+          "id": "https://example.org/uuid/88457e2f-8888-4173-b620-a339a79fc021",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4956,7 +4956,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0133/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "61r [133]"
         ]
       },
@@ -4964,7 +4964,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/27faa048-924e-4cec-bb66-e5fdb537bb12",
+          "id": "https://example.org/uuid/e79fce3a-8071-4102-8d54-94552c5d7b7e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -4991,7 +4991,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0134/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "61v [134]"
         ]
       },
@@ -4999,7 +4999,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/034c08ec-0630-4299-918f-6e1e986e7d23",
+          "id": "https://example.org/uuid/3f26fb2f-6b4c-47aa-aa97-bfa10185b1f4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5026,7 +5026,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0135/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "62r [135]"
         ]
       },
@@ -5034,7 +5034,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/3ea6811b-76ea-4773-a90f-73b6e45ce27b",
+          "id": "https://example.org/uuid/2a41550c-5993-4d48-a308-0283530e2c13",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5061,7 +5061,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0136/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "62v [136]"
         ]
       },
@@ -5069,7 +5069,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f874fda9-2e4b-4b83-b13d-e260d5b7b25a",
+          "id": "https://example.org/uuid/859bdbcd-48a1-4754-a109-49a883e77f4a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5096,7 +5096,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0137/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "62r [137]"
         ]
       },
@@ -5104,7 +5104,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9dbb864a-465b-4985-a944-360124270b54",
+          "id": "https://example.org/uuid/cb9c4a12-4cd5-468d-8048-9fe20b692612",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5131,7 +5131,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0138/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "62v [138]"
         ]
       },
@@ -5139,7 +5139,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/6b4a3471-aac2-4438-bb91-e0013d47dfad",
+          "id": "https://example.org/uuid/31b19045-4fc9-445d-af70-92e917df08aa",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5166,7 +5166,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0139/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "63r [139]"
         ]
       },
@@ -5174,7 +5174,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d5918c20-d715-4c5c-a7b4-2e021681562d",
+          "id": "https://example.org/uuid/e26ab10f-ded8-4daa-a3cc-32384a59e88a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5201,7 +5201,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0140/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "63v [140]"
         ]
       },
@@ -5209,7 +5209,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/517d2021-2280-4c44-824b-6e2a0f30fc3e",
+          "id": "https://example.org/uuid/e6d7b6dd-7c67-4a6c-83e1-cd5c1ef5fc15",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5236,7 +5236,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0141/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "64r [141]"
         ]
       },
@@ -5244,7 +5244,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2f734e9d-ab80-48d6-b889-4d9421a0748f",
+          "id": "https://example.org/uuid/bb72c367-cf15-49ea-a8ae-17cb811173e1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5271,7 +5271,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0142/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "64v [142]"
         ]
       },
@@ -5279,7 +5279,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/62d2a56d-1997-42a2-bab0-e914fa755a5c",
+          "id": "https://example.org/uuid/8f35b2e7-b7ff-4ce3-9bfc-24685afa233e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5306,7 +5306,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0143/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "64r [143]"
         ]
       },
@@ -5314,7 +5314,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/98caa045-79b8-4b13-9687-02f3f56002c8",
+          "id": "https://example.org/uuid/d23562d6-adc9-4f61-9c60-230812c97844",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5341,7 +5341,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0144/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "64v [144]"
         ]
       },
@@ -5349,7 +5349,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/00682e51-d3e1-496c-96d6-f1bef0082974",
+          "id": "https://example.org/uuid/cc944cb1-9120-4992-aecd-a41a1323d921",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5376,7 +5376,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0145/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "65r [145]"
         ]
       },
@@ -5384,7 +5384,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/268fe4bc-aefd-44b5-ad67-8cdfe255d8fe",
+          "id": "https://example.org/uuid/ed24214c-a8c9-4f5e-9ffd-75dfc0daf1de",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5411,7 +5411,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0146/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "65v [146]"
         ]
       },
@@ -5419,7 +5419,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/e2171f7d-9ced-4d6b-82ad-9a18586e02a6",
+          "id": "https://example.org/uuid/db3e36a3-7900-4fd8-9926-177984efbc28",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5446,7 +5446,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0147/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "65r [147]"
         ]
       },
@@ -5454,7 +5454,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2ef0e76a-9d79-4646-8079-241bcebd3b0a",
+          "id": "https://example.org/uuid/18cb0381-96e8-4492-b4e2-efd7ae09d181",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5481,7 +5481,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0148/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "65v [148]"
         ]
       },
@@ -5489,7 +5489,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/fbdfbead-cf63-463e-af63-1321fb1ff22a",
+          "id": "https://example.org/uuid/7a332a87-d6fc-488e-8416-d9e758097bdc",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5516,7 +5516,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0149/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "66r [149]"
         ]
       },
@@ -5524,7 +5524,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/1f84434a-558f-431c-beba-e48b2955271c",
+          "id": "https://example.org/uuid/87704cf5-2b5d-4130-9397-12a79a14f180",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5551,7 +5551,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0150/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "66v [150]"
         ]
       },
@@ -5559,7 +5559,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2b1d50d7-b0c5-4153-ba80-23a5f317a760",
+          "id": "https://example.org/uuid/15f1e2d8-fb56-4522-b44a-2fac7f887ba2",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5586,7 +5586,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0151/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "66r [151]"
         ]
       },
@@ -5594,7 +5594,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f117554f-c9d0-4916-96ef-8d88a4f395c5",
+          "id": "https://example.org/uuid/79992cf6-97b1-4ddf-8f4a-a6f1334493b2",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5621,7 +5621,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0152/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "66v [152]"
         ]
       },
@@ -5629,7 +5629,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/351ed8ee-f8dc-4972-910d-5f3d57396912",
+          "id": "https://example.org/uuid/a69e692e-b310-483c-98b2-8cd0ca86dec9",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5656,7 +5656,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0153/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "67r [153]"
         ]
       },
@@ -5664,7 +5664,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/535232b2-2570-4fff-b985-638c5a619c9b",
+          "id": "https://example.org/uuid/5c00e1c6-36ef-4ba8-9ac8-6081a275b561",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5691,7 +5691,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0154/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "67v [154]"
         ]
       },
@@ -5699,7 +5699,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/58d2d048-485c-4b08-b082-19b6ce661d45",
+          "id": "https://example.org/uuid/9e19da4d-1a61-4d95-a41c-745ac1469562",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5726,7 +5726,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0155/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "68r [155]"
         ]
       },
@@ -5734,7 +5734,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/b14ea2b3-ec8f-4b5c-aabf-2b85bb1a93d6",
+          "id": "https://example.org/uuid/acc48481-f9d0-4594-bf66-31e2687f2fb8",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5761,7 +5761,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0156/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "68v [156]"
         ]
       },
@@ -5769,7 +5769,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/98d299d8-652a-499a-887d-e8534e900c38",
+          "id": "https://example.org/uuid/0aabafb1-8cad-43e4-88b6-e761a51353a4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5796,7 +5796,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0157/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "69r [157]"
         ]
       },
@@ -5804,7 +5804,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ca39e71c-2a35-4a2f-8955-a7758901c8e6",
+          "id": "https://example.org/uuid/df2329b4-daea-449c-807d-009589dbf37d",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5831,7 +5831,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0158/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "69v [158]"
         ]
       },
@@ -5839,7 +5839,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/80845648-bce0-447a-bfa5-342cd8ad9c11",
+          "id": "https://example.org/uuid/964f87aa-e792-40b5-9f6b-219c4b4f518d",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5866,7 +5866,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0159/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "70r [159]"
         ]
       },
@@ -5874,7 +5874,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/5f23813d-9871-4616-afe2-44d554cd417b",
+          "id": "https://example.org/uuid/846e0274-7786-498e-8bf6-19a1a35d538c",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5901,7 +5901,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0160/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "70v [160]"
         ]
       },
@@ -5909,7 +5909,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d8f797e1-af37-4a74-b7ab-cfb74086fca8",
+          "id": "https://example.org/uuid/f8404926-21f9-46ea-9ae2-6c1ef0b161a4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5936,7 +5936,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0161/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "71r [161]"
         ]
       },
@@ -5944,7 +5944,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/cf296e8b-9510-4fac-b930-0c553ff3057c",
+          "id": "https://example.org/uuid/73b0e814-d67b-456a-9c39-dc743fb1f89c",
           "type": "AnnotationPage",
           "items": [
             {
@@ -5971,7 +5971,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0162/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "71v [162]"
         ]
       },
@@ -5979,7 +5979,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/729a1bcc-371f-45e7-aede-34c94d1d10f0",
+          "id": "https://example.org/uuid/05612dd0-a1bb-4df0-83c8-01e1abe80f50",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6006,7 +6006,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0163/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "72r [163]"
         ]
       },
@@ -6014,7 +6014,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/4cab9f4c-2789-4f91-a4b9-28e5d2fcc292",
+          "id": "https://example.org/uuid/c1b0fad2-38a5-421e-81eb-422a7c16281c",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6041,7 +6041,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0164/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "72v [164]"
         ]
       },
@@ -6049,7 +6049,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/63b19448-6ebd-4f58-8013-dfd5d9cc0806",
+          "id": "https://example.org/uuid/7ffadd22-f6f1-4b99-994b-7680c5fdeee9",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6076,7 +6076,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0165/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "73r [165]"
         ]
       },
@@ -6084,7 +6084,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/e5ec4d81-5bc8-4c04-a0c5-9ae1b106c529",
+          "id": "https://example.org/uuid/5abf69c2-53e8-4a30-a5e9-899b9b644334",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6111,7 +6111,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0166/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "73v [166]"
         ]
       },
@@ -6119,7 +6119,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/c5d2c7c8-a632-49d4-a43b-4cafcd1b24f2",
+          "id": "https://example.org/uuid/6fff1217-6955-4d2b-ac39-565144f83182",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6146,7 +6146,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0167/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "74r [167]"
         ]
       },
@@ -6154,7 +6154,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f7c27547-fb1f-4f57-b53b-a8d05a930fa3",
+          "id": "https://example.org/uuid/51775b81-66e6-4707-b96c-d8ef25e3eab4",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6181,7 +6181,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0168/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "74v [168]"
         ]
       },
@@ -6189,7 +6189,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/c3ca7592-0d8e-4dfa-bc0d-316c8a09beef",
+          "id": "https://example.org/uuid/c66b4aa6-a4cc-4236-94b3-297c3dcc4041",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6216,7 +6216,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0169/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "75r [169]"
         ]
       },
@@ -6224,7 +6224,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/c2fd8880-7edc-420c-9372-127db0df367c",
+          "id": "https://example.org/uuid/5def5063-b9a4-4395-b5c4-329054bab950",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6251,7 +6251,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0170/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "75v [170]"
         ]
       },
@@ -6259,7 +6259,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/15a82240-e888-4f3e-88e3-0fc015fde669",
+          "id": "https://example.org/uuid/c02c0b2e-fa28-425f-be44-0f5939816dce",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6286,7 +6286,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0171/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "76r [171]"
         ]
       },
@@ -6294,7 +6294,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ef3f5990-fec2-458b-8b87-f7f25807c9ea",
+          "id": "https://example.org/uuid/88cf7f7c-58c9-40f4-9776-70a92940a4da",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6321,7 +6321,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0172/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "76v [172]"
         ]
       },
@@ -6329,7 +6329,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ddf3c2aa-7638-484e-a0f7-c80ab78f0a6f",
+          "id": "https://example.org/uuid/df52d65d-1a76-489e-a89a-bf29041edb40",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6356,7 +6356,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0173/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "76r [173]"
         ]
       },
@@ -6364,7 +6364,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/0ee2509e-255a-4b77-91b4-677cfb21b816",
+          "id": "https://example.org/uuid/05607d0f-7c45-43d4-a27a-69cacbb1e20c",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6391,7 +6391,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0174/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "76v [174]"
         ]
       },
@@ -6399,7 +6399,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a054d0a2-6b37-4956-84bb-37542d201ff0",
+          "id": "https://example.org/uuid/70bc6101-10c8-4ed1-b818-bdaf623de07a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6426,7 +6426,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0175/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "77r [175]"
         ]
       },
@@ -6434,7 +6434,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/59b7771c-4216-4a6b-8fb5-b614083fc2bb",
+          "id": "https://example.org/uuid/3e4c8ff1-c031-47fa-9599-9ea54d1134ba",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6461,7 +6461,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0176/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "77v [176]"
         ]
       },
@@ -6469,7 +6469,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f9e3a08f-bf64-486f-9b92-cce9f458eed1",
+          "id": "https://example.org/uuid/6e3c59ac-ea99-41f8-af97-4134ca8e2e35",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6496,7 +6496,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0177/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "77r [177]"
         ]
       },
@@ -6504,7 +6504,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/98e2f406-012f-4343-834b-a589099c0b8d",
+          "id": "https://example.org/uuid/0e0a06ba-c29d-4b85-abba-5803f0caa925",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6531,7 +6531,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0178/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "77v [178]"
         ]
       },
@@ -6539,7 +6539,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/877b0d21-11ad-4476-8ccf-9b52b5e46c9a",
+          "id": "https://example.org/uuid/a7d824bc-046a-4cdf-ae8e-173eadcb3028",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6566,7 +6566,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0179/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "78r [179]"
         ]
       },
@@ -6574,7 +6574,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/fd0c9ffb-7716-438a-96a5-c2f58ed4da93",
+          "id": "https://example.org/uuid/8cb459c3-cf5c-4273-979d-b392e2e72c67",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6601,7 +6601,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0180/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "78v [180]"
         ]
       },
@@ -6609,7 +6609,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/0287132e-3914-4683-b06e-c96c6d0a9f83",
+          "id": "https://example.org/uuid/704063cc-ffe5-4a47-b2d7-3235db00c320",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6636,7 +6636,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0181/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "79r [181]"
         ]
       },
@@ -6644,7 +6644,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/3c1b4346-0c08-435f-a37d-e691f4ddc83b",
+          "id": "https://example.org/uuid/fb215d69-7496-4445-ab3d-b9a6c98e2fea",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6671,7 +6671,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0182/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "79v [182]"
         ]
       },
@@ -6679,7 +6679,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ad562d5b-b9a5-4a07-9149-53e4728c5561",
+          "id": "https://example.org/uuid/58473214-6022-4951-bbee-7502732eab09",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6706,7 +6706,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0183/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "80r [183]"
         ]
       },
@@ -6714,7 +6714,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f28e84ca-fc25-405e-b82c-afc7f1fcd2ac",
+          "id": "https://example.org/uuid/b61ce6cc-9399-4836-94bb-414fc30a7fa0",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6741,7 +6741,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0184/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "80v [184]"
         ]
       },
@@ -6749,7 +6749,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/959eb062-74d3-4393-b771-bd0f05d00177",
+          "id": "https://example.org/uuid/d5ba7811-57dc-450b-9317-01bf3a25d9c9",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6776,7 +6776,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0185/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "81r [185]"
         ]
       },
@@ -6784,7 +6784,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a6d51628-c693-433e-ba74-c9070b4f452e",
+          "id": "https://example.org/uuid/5f0054e8-d387-422b-ad06-44c2a11cb957",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6811,7 +6811,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0186/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "81v [186]"
         ]
       },
@@ -6819,7 +6819,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/725fdcf1-dd1b-408d-b6ef-3358fd1bf5d7",
+          "id": "https://example.org/uuid/d0f276b4-3477-45b4-95a9-f1c4d690cc9a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6846,7 +6846,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0187/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "82r [187]"
         ]
       },
@@ -6854,7 +6854,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/897f940f-8f97-4c77-8ca1-1175f6bb367e",
+          "id": "https://example.org/uuid/1fb17a5c-c7e7-4dad-a093-3578f4914a47",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6881,7 +6881,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0188/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "82v [188]"
         ]
       },
@@ -6889,7 +6889,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d2b52987-0867-4fb0-8117-b3fd773a6f03",
+          "id": "https://example.org/uuid/354ce159-01c5-4842-a0df-39612fb18e18",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6916,7 +6916,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0189/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "83r [189]"
         ]
       },
@@ -6924,7 +6924,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/225e7c94-5c0d-4959-b68a-d78452927673",
+          "id": "https://example.org/uuid/d628ccfc-cd9d-4438-81c4-c345801f7f7f",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6951,7 +6951,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0190/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "83v [190]"
         ]
       },
@@ -6959,7 +6959,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/da3013d4-22b6-489f-ad5c-487854b7b814",
+          "id": "https://example.org/uuid/1346a46f-3646-4c2e-a8b1-c55381c20683",
           "type": "AnnotationPage",
           "items": [
             {
@@ -6986,7 +6986,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0191/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "84r [191]"
         ]
       },
@@ -6994,7 +6994,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/abfa4a6b-a956-48ca-8cc3-c2219dd7170b",
+          "id": "https://example.org/uuid/6e1eb790-afdd-4f2a-9be1-4ae0f3832a1c",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7021,7 +7021,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0192/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "84v [192]"
         ]
       },
@@ -7029,7 +7029,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9224a9bd-77d4-4fd0-83ab-4d7d2ea0fb12",
+          "id": "https://example.org/uuid/826445d7-4422-4567-a702-39caaebf48ef",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7056,7 +7056,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0193/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "84r [193]"
         ]
       },
@@ -7064,7 +7064,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a9647962-befc-468b-b20c-b327988cc012",
+          "id": "https://example.org/uuid/af6cdf18-d9fd-4b38-9ddb-47a86f98a9f0",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7091,7 +7091,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0194/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "84v [194]"
         ]
       },
@@ -7099,7 +7099,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d5055cb0-98e7-4044-8fcc-3a96556acd17",
+          "id": "https://example.org/uuid/2da0c137-f7ab-409d-b47e-7d804659fb24",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7126,7 +7126,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0195/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "85r [195]"
         ]
       },
@@ -7134,7 +7134,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/b6cef1c0-1af2-4859-9dbf-e1a52b220666",
+          "id": "https://example.org/uuid/51680a64-72c0-4931-a35f-b98e5cefecf0",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7161,7 +7161,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0196/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "85v [196]"
         ]
       },
@@ -7169,7 +7169,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9cbdfb06-8105-486a-86bf-ac9b715b0135",
+          "id": "https://example.org/uuid/4ad573ee-ece4-4f85-afef-ba8a7530bf99",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7196,7 +7196,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0197/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "85r [197]"
         ]
       },
@@ -7204,7 +7204,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/23a0a37c-d962-4f78-89c5-0406ca32d657",
+          "id": "https://example.org/uuid/bb1e84d4-ab18-46de-8891-542a1fcb433e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7231,7 +7231,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0198/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "85v [198]"
         ]
       },
@@ -7239,7 +7239,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/0c839351-141c-4572-9064-aa01473f9e32",
+          "id": "https://example.org/uuid/e965a13f-f904-433f-bbd4-783044726851",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7266,7 +7266,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0199/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "86r [199]"
         ]
       },
@@ -7274,7 +7274,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/3a354d92-1329-41a0-b17c-415fa0649198",
+          "id": "https://example.org/uuid/b1f608af-bcaf-43ee-baf9-0bd12a6e9b26",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7301,7 +7301,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0200/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "86v [200]"
         ]
       },
@@ -7309,7 +7309,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a05f83d7-7628-484b-95eb-097b02c46b6b",
+          "id": "https://example.org/uuid/b1714ad7-4ffd-4b1f-83b8-9410a5935e81",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7336,7 +7336,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0201/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "87r [201]"
         ]
       },
@@ -7344,7 +7344,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/1434b057-207b-41d8-bc24-297a11ade078",
+          "id": "https://example.org/uuid/9db3451e-cca5-4a8f-bcc8-767b2616ff53",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7371,7 +7371,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0202/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "87v [202]"
         ]
       },
@@ -7379,7 +7379,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/c507d20f-ff91-4ecd-b459-3af1775461ac",
+          "id": "https://example.org/uuid/27830323-045a-4bf7-867e-5de371579757",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7406,7 +7406,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0203/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "88r [203]"
         ]
       },
@@ -7414,7 +7414,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d3afe7f6-60f3-47a6-9e50-706a116c71c7",
+          "id": "https://example.org/uuid/d5ec6301-85ac-4fca-b0ad-3c33ba4ea22f",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7441,7 +7441,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0204/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "88v [204]"
         ]
       },
@@ -7449,7 +7449,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ee7fff17-8a6e-4c2a-b758-fecad94aa354",
+          "id": "https://example.org/uuid/e05ce416-bec4-494b-a1b5-ff7ed61f267e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7476,7 +7476,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0205/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "89r [205]"
         ]
       },
@@ -7484,7 +7484,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/b6cedf64-7a3a-4f6d-9132-1fd43f8d612d",
+          "id": "https://example.org/uuid/3e1164e0-e202-4063-9b60-97d7cfc391b0",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7511,7 +7511,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0206/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "89v [206]"
         ]
       },
@@ -7519,7 +7519,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a750874f-ae21-4fb6-a4d7-d521007cd2e8",
+          "id": "https://example.org/uuid/eaf7cb60-6104-49c4-93b2-0d0b736ee1c0",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7546,7 +7546,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0207/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "90r [207]"
         ]
       },
@@ -7554,7 +7554,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9fe67c4b-7556-4e0d-bc54-310215590d7b",
+          "id": "https://example.org/uuid/ad13af9f-6cbb-4cd6-94cf-733a2478f74e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7581,7 +7581,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0208/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "90v [208]"
         ]
       },
@@ -7589,7 +7589,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/179eaa86-9ad6-4516-8ce1-9fc787b976b9",
+          "id": "https://example.org/uuid/2fa8a692-2d31-413e-8704-1232598d6112",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7616,7 +7616,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0209/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "91r [209]"
         ]
       },
@@ -7624,7 +7624,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/99cb9c2c-4da4-405a-886d-70340b3afcce",
+          "id": "https://example.org/uuid/9b6d556a-1e0f-494b-b54d-2c42b2c8ddfe",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7651,7 +7651,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0210/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "91v [210]"
         ]
       },
@@ -7659,7 +7659,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/08a78bf9-b4e0-4bde-834b-1a422599f40f",
+          "id": "https://example.org/uuid/782d7bd8-3080-402e-abea-6569b4ba7da2",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7686,7 +7686,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0211/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "92r [211]"
         ]
       },
@@ -7694,7 +7694,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9c023396-3bb0-4bbb-b8de-f263904659db",
+          "id": "https://example.org/uuid/0c5688f2-db1a-493d-bfce-2233095040fc",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7721,7 +7721,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0212/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "92v [212]"
         ]
       },
@@ -7729,7 +7729,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/705fcc47-56a1-4eca-824f-3b6673088f77",
+          "id": "https://example.org/uuid/2b6a32a9-5b28-41ec-9bda-0f77d5238c98",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7756,7 +7756,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0213/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "93r [213]"
         ]
       },
@@ -7764,7 +7764,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/fd4a38b4-7cb8-420b-922e-0b88812fb4e2",
+          "id": "https://example.org/uuid/75d8dbbe-0d2d-4709-82c8-bc15e642a3f7",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7791,7 +7791,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0214/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "93v [214]"
         ]
       },
@@ -7799,7 +7799,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/4f825c09-c0f4-4dc3-8478-e5591e31d499",
+          "id": "https://example.org/uuid/858e0917-4ae4-4175-91d9-e14ecf8f4756",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7826,7 +7826,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0215/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "93r [215]"
         ]
       },
@@ -7834,7 +7834,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/2fb446de-d2af-4b88-95d8-3a6a05319daf",
+          "id": "https://example.org/uuid/10dae6ec-a9e8-4afb-a1e4-5c60d4e5c4a6",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7861,7 +7861,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0216/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "93v [216]"
         ]
       },
@@ -7869,7 +7869,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/914ca3eb-d418-4e9a-9603-002be4a9f99a",
+          "id": "https://example.org/uuid/06c1fde3-e31e-4fa1-a89a-afd44bd11f15",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7896,7 +7896,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0217/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "94r [217]"
         ]
       },
@@ -7904,7 +7904,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/48311ae9-7d36-44e1-9409-82abcb1e031f",
+          "id": "https://example.org/uuid/0811b857-eb17-44e0-9715-5cc3d3552faf",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7931,7 +7931,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0218/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "94v [218]"
         ]
       },
@@ -7939,7 +7939,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/d8b73300-0098-41f5-bdd8-82333723602c",
+          "id": "https://example.org/uuid/5d3c831c-8a78-46de-a29a-bd313e50ab0e",
           "type": "AnnotationPage",
           "items": [
             {
@@ -7966,7 +7966,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0219/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "94r [219]"
         ]
       },
@@ -7974,7 +7974,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ac6cf98d-5551-42d0-9e2f-c6ff6b435835",
+          "id": "https://example.org/uuid/10d02799-6eba-49d0-bd88-f80bffd4859c",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8001,7 +8001,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0220/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "94v [220]"
         ]
       },
@@ -8009,7 +8009,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/6ad31b1e-a767-4949-87de-262fa13a3af2",
+          "id": "https://example.org/uuid/dc170d8c-f65d-4dc8-9ad9-2d2cd5610a67",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8036,7 +8036,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0221/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "95r [221]"
         ]
       },
@@ -8044,7 +8044,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/44861d3e-7152-4e29-aeec-ac4c5a2ef793",
+          "id": "https://example.org/uuid/16e242cb-fc25-4f8f-b013-89eba06765d0",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8071,7 +8071,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0222/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "95v [222]"
         ]
       },
@@ -8079,7 +8079,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/39ff28ac-599f-4464-824a-e43fdc24b30d",
+          "id": "https://example.org/uuid/c2023d3a-b80f-483c-9dc7-5c67f5440d01",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8106,7 +8106,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0223/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "96r [223]"
         ]
       },
@@ -8114,7 +8114,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/80a674c6-559e-4e9d-81ca-36a53ecb5022",
+          "id": "https://example.org/uuid/2348e985-66ea-4b7f-a233-d2f5182b1508",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8141,7 +8141,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0224/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "96v [224]"
         ]
       },
@@ -8149,7 +8149,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/b5e0e2d2-3f22-49eb-bc13-2f2b44c86f44",
+          "id": "https://example.org/uuid/499c4142-7255-453c-8160-2c741bdd2f75",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8176,7 +8176,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0225/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "96r [225]"
         ]
       },
@@ -8184,7 +8184,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/4ff0b83d-9ed7-4a99-8a91-bc0cced13e99",
+          "id": "https://example.org/uuid/cfc38503-3cf3-47f5-add6-4fb411ac94d1",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8211,7 +8211,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0226/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "96v [226]"
         ]
       },
@@ -8219,7 +8219,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/e0da8eaa-d779-4f97-ae91-83d33848c785",
+          "id": "https://example.org/uuid/51ec0176-dd73-49d4-99a5-59132367007c",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8246,7 +8246,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0227/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "97r [227]"
         ]
       },
@@ -8254,7 +8254,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/79f5db65-cc24-4af9-bb21-0b70c2a34339",
+          "id": "https://example.org/uuid/f41b4241-f7e7-475f-bbc9-762eb58ce067",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8281,7 +8281,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0228/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "97v [228]"
         ]
       },
@@ -8289,7 +8289,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/1b7b5fcb-ad3f-4698-926f-d01390c0c509",
+          "id": "https://example.org/uuid/5efe11c5-0cc3-4872-a742-3d1b9037514a",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8316,7 +8316,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0229/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "98r [229]"
         ]
       },
@@ -8324,7 +8324,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/cdcd43d7-bfde-4676-a096-374b1db522f5",
+          "id": "https://example.org/uuid/9a5bb6ba-af32-49e1-8c99-589f4d43becc",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8351,7 +8351,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0230/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "98v [230]"
         ]
       },
@@ -8359,7 +8359,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/80af778b-fdfe-40fb-b7ea-cb84d3ddf668",
+          "id": "https://example.org/uuid/90035e94-8f4e-4550-9a30-5d83117f6fa3",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8386,7 +8386,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0231/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "99r [231]"
         ]
       },
@@ -8394,7 +8394,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/a709b86b-5911-4218-a358-e84ec20188a4",
+          "id": "https://example.org/uuid/c58b5a57-1dd8-48c1-b71b-3f5e06ac490d",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8421,7 +8421,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0232/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "99v [232]"
         ]
       },
@@ -8429,7 +8429,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/4611ae6a-87d3-439e-bde8-ebe84fffd87b",
+          "id": "https://example.org/uuid/58061a80-166b-4b7e-9265-3467305567ae",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8456,7 +8456,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0233/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "100r [233]"
         ]
       },
@@ -8464,7 +8464,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/6e912b0c-0a10-42c5-b84d-286c11e4b0c7",
+          "id": "https://example.org/uuid/5845b84b-5a78-4491-a262-2bcea6c4eaf8",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8491,7 +8491,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0234/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "100v [234]"
         ]
       },
@@ -8499,7 +8499,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f40b694c-a6a4-46c8-a1c7-2f17e676c465",
+          "id": "https://example.org/uuid/6bafd363-3fbf-4520-855b-2beea917ae19",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8526,7 +8526,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0235/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "101r [235]"
         ]
       },
@@ -8534,7 +8534,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/7aa327d6-4873-48f8-ac0e-dd9a17a94dc4",
+          "id": "https://example.org/uuid/d15d0fdf-d1d6-45a7-ac42-4fcb992c7d3f",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8561,7 +8561,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0236/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "101v [236]"
         ]
       },
@@ -8569,7 +8569,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/ccd9b63b-6617-4ca0-b07d-420ac93d10ad",
+          "id": "https://example.org/uuid/a9b6cdd1-d06e-4156-a8ff-99b4a446c072",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8596,7 +8596,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0237/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "102r [237]"
         ]
       },
@@ -8604,7 +8604,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/05d9a33c-e87b-4f05-94a7-c495dda5b440",
+          "id": "https://example.org/uuid/46ffb479-965f-4d0c-baed-af635807f6b6",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8631,7 +8631,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0238/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "102v [238]"
         ]
       },
@@ -8639,7 +8639,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/f228bd10-a072-4edc-aeec-6ab7dab8542a",
+          "id": "https://example.org/uuid/f8d0e6da-a9f6-4130-96b9-c9839e5bdbda",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8666,7 +8666,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0239/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "103r [239]"
         ]
       },
@@ -8674,7 +8674,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9f755a23-16c2-4b92-b106-cbbe763f78c7",
+          "id": "https://example.org/uuid/9bef952b-ae51-4608-a6ec-775270cedfcd",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8701,7 +8701,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0240/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           "103v [240]"
         ]
       },
@@ -8709,7 +8709,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/dd1d44b1-3d27-412b-b897-3b58c01813ec",
+          "id": "https://example.org/uuid/c2d491e3-b159-4bf7-897f-3b03ddac7cb7",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8736,7 +8736,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0241/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           " -  [241]"
         ]
       },
@@ -8744,7 +8744,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/73a988dc-4b85-445f-9e04-5c0c31371b47",
+          "id": "https://example.org/uuid/aef0a5a5-85b9-4a43-acac-ac832dfbe5e5",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8771,7 +8771,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0242/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           " -  [242]"
         ]
       },
@@ -8779,7 +8779,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/9e3a877e-035c-4399-ad89-7cbea0d21d1c",
+          "id": "https://example.org/uuid/7a448de8-0a49-4e18-a85c-41390459e1c6",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8806,7 +8806,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0243/canvas",
       "type": "Canvas",
       "label": {
-        "true": [
+        "de": [
           " -  [243]"
         ]
       },
@@ -8814,7 +8814,7 @@
       "width": 600,
       "items": [
         {
-          "id": "https://example.org/uuid/c512c46a-3887-41dc-a562-edb1c95e20f9",
+          "id": "https://example.org/uuid/e343d0fe-61c2-4b39-902b-1d56c6429f42",
           "type": "AnnotationPage",
           "items": [
             {
@@ -8843,7 +8843,7 @@
       "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578/range/range-1",
       "type": "Range",
       "label": {
-        "true": [
+        "de": [
           "Briefe und Billets an Fanny Hensel aus der Verlobungszeit 1829"
         ]
       },
@@ -8852,7 +8852,7 @@
           "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578/range/range-2",
           "type": "Range",
           "label": {
-            "true": [
+            "de": [
               "Beilage"
             ]
           },
@@ -8871,7 +8871,7 @@
           "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578/range/range-3",
           "type": "Range",
           "label": {
-            "true": [
+            "de": [
               "Farbinformation"
             ]
           },
