@@ -1,0 +1,244 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/test.json",
+    "type": "Manifest",
+    "label": {
+        "de": [
+            "Hensel, Wilhelm/Fanny Hensel: Briefsequenz aus der Verlobungszeit 1829"
+        ]
+    },
+    "summary": [
+        {
+            "label": "Zu diesem Objekt",
+            "value": "Bei diesem virtuellen Objekt handelt es sich um eine Briefsequenz aus dem Briefwechsel zwischen Fanny Mendelssohn-Bartholdy und Wilhelm Hensel. Der gesamte erhaltene Briefwechsel ist in den digitalisierten Sammlungen der Staatsbibliothek zu Berlin in drei Objekten enthalten (siehe unter seeAlso). Dieses Objekt fasst Briefe zusammen, die offensichtlich direkt aufeinander folgen."
+        }
+    ],
+    "metadata": [
+        {
+            "label": "Autor",
+            "value": [
+                "Hensel, Fanny",
+                "Hensel, Wilhelm"
+            ]
+        },
+        {
+            "label": "Titel",
+            "value": "Briefsequenz aus der Verlobungszeit von Fanny und Wilhelm Hensel, 1829"
+        },
+        {
+            "label": "Signaturen",
+            "value": [
+                "MA Depos. 3,6",
+                "MA Depos. 3,4"
+            ]
+        },
+        {
+            "label": "Sprache",
+            "value": "ger"
+        },
+        {
+            "label": "Lizenz",
+            "value": "Public Domain Mark 1.0"
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://lab.sbb.berlin",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Stabi Lab"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://lab.sbb.berlin",
+                    "type": "Text",
+                    "label": {
+                        "de": [
+                            "Stabi Lab Homepage"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        }
+    ],
+    "items": [
+        {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0235/canvas",
+            "type": "Canvas",
+            "label": {
+                "de": [
+                    "101r [235]"
+                ]
+            },
+            "height": 1540,
+            "width": 1267,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/d15d0fdf-d1d6-45a7-ac42-4fcb992c7d3f",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0235/annotation",
+                            "type": "Annotation",
+                            "target": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0235/canvas",
+                            "body": {
+                                "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0235/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0235",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0236/canvas",
+            "type": "Canvas",
+            "label": {
+                "de": [
+                    "101v [236]"
+                ]
+            },
+            "height": 1540,
+            "width": 1267,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/a9b6cdd1-d06e-4156-a8ff-99b4a446c072",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0236/annotation",
+                            "type": "Annotation",
+                            "target": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0236/canvas",
+                            "body": {
+                                "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0236/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0236",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0159/canvas",
+            "type": "Canvas",
+            "label": {
+                "de": [
+                    "79r [159]"
+                ]
+            },
+            "height": 1764,
+            "width": 1596,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/e1e5d12e-03d9-4405-b199-f086c08fbd27",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0159/annotation",
+                            "type": "Annotation",
+                            "target": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0159/canvas",
+                            "body": {
+                                "id": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0159/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0159",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0237/canvas",
+            "type": "Canvas",
+            "label": {
+                "de": [
+                    "102r [237]"
+                ]
+            },
+            "height": 1256,
+            "width": 823,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/46ffb479-965f-4d0c-baed-af635807f6b6",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0237/annotation",
+                            "type": "Annotation",
+                            "target": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0237/canvas",
+                            "body": {
+                                "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0237/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0237",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0238/canvas",
+            "type": "Canvas",
+            "label": {
+                "de": [
+                    "102v [238]"
+                ]
+            },
+            "height": 1256,
+            "width": 823,
+            "items": [
+                {
+                    "id": "https://example.org/uuid/f8d0e6da-a9f6-4130-96b9-c9839e5bdbda",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0238/annotation",
+                            "type": "Annotation",
+                            "target": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0238/canvas",
+                            "body": {
+                                "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0238/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "@id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0238",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level1.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
