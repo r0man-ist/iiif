@@ -63,5 +63,3567 @@
             ]
         }
     ],
-    "items": []
+    "items": [
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384132/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384132/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384132",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384132/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1653,
+                                "width": 1155,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384132",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384132",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384132/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 210,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384132",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384132/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384132",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1653,
+            "width": 1155,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384132"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384131?child_oid=17384132"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384133/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384133/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384133",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384133/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1653,
+                                "width": 2265,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384133",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384133",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384133/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 219,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384133",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384133/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384133",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1653,
+            "width": 2265,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384133"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384131?child_oid=17384133"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384134/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384134/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384134",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384134/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2247,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384134",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384134",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384134/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 224,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384134",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384134/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384134",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1677,
+            "width": 2247,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384134"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384131?child_oid=17384134"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384135/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384135/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384135",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384135/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1653,
+                                "width": 2250,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384135",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384135",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384135/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 220,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384135",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384135/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384135",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1653,
+            "width": 2250,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384135"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384131?child_oid=17384135"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384136/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384136/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384136",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384136/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 1146,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384136",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384131/canvas/17384136",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384136/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 300,
+                    "width": 205,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384136",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384136/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384136",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1677,
+            "width": 1146,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384136"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384131?child_oid=17384136"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384178/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384178/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384178",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384178/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2283,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384178",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384178",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384178/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 220,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384178",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384178/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384178",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1677,
+            "width": 2283,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384178"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384177?child_oid=17384178"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384179/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384179/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384179",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384179/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1701,
+                                "width": 2280,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384179",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384179",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384179/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 224,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384179",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384179/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384179",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1701,
+            "width": 2280,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384179"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384177?child_oid=17384179"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384180/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384180/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384180",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384180/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1701,
+                                "width": 2343,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384180",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384180",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384180/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 218,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384180",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384180/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384180",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1701,
+            "width": 2343,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384180"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384177?child_oid=17384180"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384181/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384181/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384181",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384181/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1701,
+                                "width": 2337,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384181",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384181",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384181/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 218,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384181",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384181/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384181",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1701,
+            "width": 2337,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384181"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384177?child_oid=17384181"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384182/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384182/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384182",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384182/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1725,
+                                "width": 2307,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384182",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384177/canvas/17384182",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384182/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 224,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384182",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384182/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384182",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1725,
+            "width": 2307,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384182"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384177?child_oid=17384182"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0001)"
+                ]
+            },
+            "height": 1806,
+            "width": 1141,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/1",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/c9e42cfa-73ad-49d5-bb9b-35ffcaca0aa6",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/95fc8036-3e62-496d-9304-60bbc54e17fa",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/1",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1806,
+                                "width": 1141,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00001",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008206952965235175,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0002)"
+                ]
+            },
+            "height": 1806,
+            "width": 1054,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/2",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/a56bf804-8dda-4713-9ff3-88ce88d16abb",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/a964451a-1123-4ea8-b1ca-7f0289655807",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/2",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00002/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1806,
+                                "width": 1054,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00002",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008884376976597089,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0003)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/3",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/6cba170f-60b3-4314-91fb-aef1231c9f86",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/8844cc2a-0aa5-4518-ba8a-72a0584dfab4",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/3",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00003/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00003",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0004)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/4",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/afb5a157-79ff-4e52-ac35-402608570c3c",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/1e89a549-1054-48b3-b946-c852a1f3f592",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/4",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00004/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00004",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0005)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/5",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/3bba6907-aafc-45b5-8209-7bd287638653",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/cdf1bd29-6df1-46f5-89c2-868611d18857",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/5",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00005/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00005",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0006)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/6",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/65e67b4e-3cb5-4e4e-a19b-dab157a56774",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/bab61c1b-d91e-49af-b5e1-713dc0aaa39a",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/6",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00006/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00006",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0007)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/7",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/0efec67b-f58b-42e4-8636-75f8cc767024",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/10037537-2fd6-4640-9fc6-954cbca1b34f",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/7",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00007/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00007",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0008)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/8",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/aba201b3-d194-4588-b8ca-c38de23e953d",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/4f173a17-694e-459b-bc75-94407b2ace16",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/8",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00008/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00008",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/9",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0009)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/9",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/868e49f2-3d34-4cbc-8479-aa804a96dd93",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/ca640c0d-d3bd-461e-a5f2-9bc9bbe4ea5e",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/9",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00009/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00009",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/10",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0010)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/10",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/81388edd-ba26-438a-989e-d5e00b01d92b",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/3ef7bb7c-1990-4f81-b91c-0a27e393be66",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/10",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00010/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00010",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/11",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0011)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/11",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/13109915-123b-456a-9bf1-84fd52cbf120",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/bea5d426-6729-4cde-a80e-610744763d95",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/11",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00011/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00011",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/12",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0012)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/12",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/7e64e56e-845c-409c-b98f-9704d960fb54",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/6f126dbc-d278-45a8-8f1c-0083bd4a126c",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/12",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00012/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00012",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/13",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0013)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/13",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/31143f17-11bb-49a7-9107-e140feff01ad",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/e29f8370-8265-43f7-ba81-59f20e0fc5ea",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/13",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00013/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00013",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/14",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0014)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/14",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/f80063cb-29f8-4863-a714-467482a4888b",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/0c88635c-476d-4b1b-8b14-3c04d9e36cbd",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/14",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00014/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00014",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/15",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0015)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/15",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/3c566daf-6a4a-434f-86bc-85abfc4b1214",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/ac969782-8a4a-492c-a147-7b6be7c6bb8d",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/15",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00015/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00015",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/16",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0016)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/16",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/01fa9412-a5f7-40b2-b4c9-e8d918482471",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/ba0320ff-9e64-42d5-b9d2-5105d00c98ca",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/16",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00016/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00016",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/17",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0017)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/17",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/756a8618-0f90-4de8-af50-5d217db84ab2",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/20021ea5-3b8e-431e-baf9-5b309b92964f",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/17",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00017/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00017",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/18",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0018)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/18",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/6ad90e33-e24a-43a8-8a7d-7d0401bf7a55",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/d67bd2f2-7c84-487c-88a2-932d34df3987",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/18",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00018/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00018",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384256/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384256/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384256",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384256/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2226,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384256",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384256",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384256/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 226,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384256",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384256/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384256",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1677,
+            "width": 2226,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384256"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384255?child_oid=17384256"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384257/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384257/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384257",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384257/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1701,
+                                "width": 2304,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384257",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384257",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384257/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 221,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384257",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384257/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384257",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1701,
+            "width": 2304,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384257"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384255?child_oid=17384257"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384258/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384258/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384258",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384258/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2280,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384258",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384258",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384258/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 221,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384258",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384258/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384258",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1677,
+            "width": 2280,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384258"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384255?child_oid=17384258"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384259/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384259/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384259",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384259/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2352,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384259",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384259",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384259/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 214,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384259",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384259/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384259",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1677,
+            "width": 2352,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384259"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384255?child_oid=17384259"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Canvas",
+            "items": [
+                {
+                    "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384260/page/1",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384260/image/1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384260",
+                            "body": {
+                                "id": "https://collections.library.yale.edu/iiif/2/17384260/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1677,
+                                "width": 2301,
+                                "service": [
+                                    {
+                                        "@id": "https://collections.library.yale.edu/iiif/2/17384260",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "id": "https://collections.library.yale.edu/manifests/oid/17384255/canvas/17384260",
+            "label": {
+                "none": [
+                    ""
+                ]
+            },
+            "thumbnail": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384260/full/!300,300/0/default.jpg",
+                    "type": "Image",
+                    "format": "image/jpeg",
+                    "height": 219,
+                    "width": 300,
+                    "service": [
+                        {
+                            "@id": "https://collections.library.yale.edu/iiif/2/17384260",
+                            "@type": "ImageService2",
+                            "profile": "http://iiif.io/api/image/2/level2.json"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://collections.library.yale.edu/iiif/2/17384260/full/full/0/default.jpg",
+                    "label": {
+                        "en": [
+                            "Full size"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/jpeg"
+                },
+                {
+                    "id": "https://collections.library.yale.edu/download/tiff/17384260",
+                    "label": {
+                        "en": [
+                            "Full size original"
+                        ]
+                    },
+                    "type": "Image",
+                    "format": "image/tiff"
+                }
+            ],
+            "height": 1677,
+            "width": 2301,
+            "metadata": [
+                {
+                    "label": {
+                        "en": [
+                            "Image ID"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "17384260"
+                        ]
+                    }
+                },
+                {
+                    "label": {
+                        "en": [
+                            "Link to this Image"
+                        ]
+                    },
+                    "value": {
+                        "none": [
+                            "https://collections.library.yale.edu/catalog/17384255?child_oid=17384260"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/1",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0001)"
+                ]
+            },
+            "height": 1806,
+            "width": 1141,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/1",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/1e2202c2-7a27-449e-a415-bcf5289a0b33",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/efc70041-00b7-4b07-97e7-d39c4d96c38a",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/1",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1806,
+                                "width": 1141,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00001",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008206952965235175,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/2",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0002)"
+                ]
+            },
+            "height": 1806,
+            "width": 1054,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/2",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/eba08a5a-d69b-49b8-a431-848ed4f8716a",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/6247d3a4-e768-4670-a57f-03a85c434b5c",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/2",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00002/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1806,
+                                "width": 1054,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00002",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008884376976597089,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/3",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0003)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/3",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/5d62ea03-3aff-404f-af60-cefb29d122af",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/53401be0-e4c6-4b81-b879-0e438d950d24",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/3",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00003/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00003",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/4",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0004)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/4",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/bd08f9bd-5905-46cf-9824-9d825a4c6b10",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/39e38849-f4cf-409e-81af-bb7c06084791",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/4",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00004/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00004",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/5",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0005)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/5",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/7f122ce3-71c9-474a-b948-f787f76b7b63",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/91018621-ef8d-478b-9007-acd1f775ddfe",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/5",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00005/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00005",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/6",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0006)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/6",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/dec776ea-4453-4ac1-bb06-14a074faad68",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/7c57a254-d779-42a3-b650-34b47aece13e",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/6",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00006/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00006",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/7",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0007)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/7",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/f1ce55ab-3a30-4f5d-baf0-23e864d86c58",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/263973ca-872e-425b-8ea1-94db56e34e8f",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/7",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00007/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00007",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/8",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0008)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/8",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/5447fbf7-a82b-4072-9be6-b9f451cc1c5b",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/4b6ce55f-7ddf-4050-ad3a-96c9c067a015",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/8",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00008/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00008",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/9",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0009)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/9",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/f8bacf17-041a-44db-82c0-ea8bb610e76a",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/868cc4f8-1752-4cc7-8625-7f8c14cbd530",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/9",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00009/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00009",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/10",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0010)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/10",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/6e043de6-7849-42e2-9fa7-39a333b64d60",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/f4f1fe03-02b3-4415-afe7-bcc473b6a8a0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/10",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00010/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00010",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/11",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0011)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/11",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/8dfe2869-64cd-458b-813b-224ca33de013",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/56907df1-05aa-44b8-b350-23454c1914d3",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/11",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00011/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00011",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/12",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0012)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/12",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/32d80eb7-747b-4efd-9f36-fc6bac71fea9",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/f1e86ffb-0735-4d25-a363-fd05298d76e5",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/12",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00012/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00012",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/13",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0013)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/13",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/b3441798-1709-4a8f-98df-77bbb815140e",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/5c3a64ba-5e20-41b2-a408-de5561b45dc1",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/13",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00013/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00013",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/14",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0014)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/14",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/4cd3a198-85db-42a7-8eb6-400e62a0ba95",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/2222cae6-a5ed-46f3-9241-61710722a8cc",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/14",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00014/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00014",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/15",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0015)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/15",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/af626362-c855-4527-ad19-97cf1968c244",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/5e359a50-f87c-41f9-afde-e16a58135c60",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/15",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00015/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00015",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/16",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0016)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/16",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/192dc30c-baae-457e-a7d4-12bd21739b77",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/439520f8-3ed9-43a9-894c-7b7836e6a3ce",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/16",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00016/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00016",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/17",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0017)"
+                ]
+            },
+            "height": 1657,
+            "width": 1106,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/17",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/328af231-ed3c-4170-a19b-d41b13f5b451",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/d8c7c719-4110-4c90-929f-adf614fd08b0",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/17",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00017/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1106,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00017",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008466666666666666,
+                    "physicalUnits": "cm"
+                }
+            ]
+        },
+        {
+            "id": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/18",
+            "type": "Canvas",
+            "label": {
+                "@de": [
+                    "(0018)"
+                ]
+            },
+            "height": 1657,
+            "width": 1089,
+            "seeAlso": [
+                {
+                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/18",
+                    "type": "Dataset",
+                    "profile": "http://kba.github.io/hocr-spec/1.2/"
+                }
+            ],
+            "items": [
+                {
+                    "id": "https://example.org/uuid/4382ed5a-c054-46a0-9660-fd86886bbad8",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://example.org/uuid/a19fafa3-03fa-4c46-82fb-6f842793fd28",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "target": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00062258/canvas/18",
+                            "body": {
+                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00018/full/full/0/default.jpg",
+                                "type": "Image",
+                                "format": "image/jpeg",
+                                "height": 1657,
+                                "width": 1089,
+                                "service": [
+                                    {
+                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00018",
+                                        "@type": "ImageService2",
+                                        "profile": "http://iiif.io/api/image/2/level2.json",
+                                        "protocol": "http://iiif.io/api/image"
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            ],
+            "service": [
+                {
+                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+                    "@type": "Service",
+                    "profile": "http://iiif.io/api/annex/services/physdim",
+                    "physicalScale": 0.008598836853382308,
+                    "physicalUnits": "cm"
+                }
+            ]
+        }
+    ]
 }
