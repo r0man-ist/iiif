@@ -1,20 +1,7 @@
 {
     "@context":"http://iiif.io/api/presentation/3/context.json",
     "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
-    "metadata": [
-        {
-          "label": {
-            "en": [
-              "Note"
-            ]
-          },
-          "value": {
-            "en": [
-              "Empty"
-            ]
-          }
-        }
-      ],
+
     "type":"AnnotationPage",
     "items":[                 
         {
