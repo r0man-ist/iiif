@@ -93,19 +93,19 @@
                                         "@type": "ImageService2",
                                         "profile": "http://iiif.io/api/image/2/level1.json"
                                     }
-                                    {
-                                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-1",
-                                        "type": "Annotation",
-                                        "motivation": "commenting",
-                                        "body": {
-                                            "type": "TextualBody",
-                                            "format": "text/plain",
-                                            "value": "101"
-                                        },
-                                        "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/1/canvas#xywh=1006,37,73,56"
-                                    }
                                 ]
                             }
+                        }
+                        {
+                            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-1",
+                            "type": "Annotation",
+                            "motivation": "commenting",
+                            "body": {
+                                "type": "TextualBody",
+                                "format": "text/plain",
+                                "value": "101"
+                            },
+                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/1/canvas#xywh=1006,37,73,56"
                         }
                     ]
                 }
