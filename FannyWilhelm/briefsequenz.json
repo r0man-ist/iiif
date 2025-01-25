@@ -1,6 +1,6 @@
 {
     "@context": "http://iiif.io/api/presentation/3/context.json",
-    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz.json",
+    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz.json",
     "type": "Manifest",
     "label": {
         "de": [
@@ -66,7 +66,7 @@
     ],
     "items": [
         {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/1/canvas",
+            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas",
             "type": "Canvas",
             "label": {
                 "de": [
@@ -77,13 +77,13 @@
             "width": 1267,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/1/canvas/annotation-page",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
                             "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0235/annotation",
                             "type": "Annotation",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/1/canvas",
+                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas",
                             "body": {
                                 "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0235/full/full/0/default.jpg",
                                 "type": "Image",
@@ -96,18 +96,12 @@
                                 ]
                             }
                         }
-                    ],
-                    "annotations": [
-                        {
-                            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
-                            "type": "AnnotationPage"
-                         }   
                     ]
                 }
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas",
+            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas",
             "type": "Canvas",
             "label": {
                 "de": [
@@ -118,13 +112,13 @@
             "width": 1267,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas/annotation-page",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
                             "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0236/annotation",
                             "type": "Annotation",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas",
+                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas",
                             "body": {
                                 "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0236/full/full/0/default.jpg",
                                 "type": "Image",
@@ -142,7 +136,7 @@
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/3/canvas",
+            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/3/canvas",
             "type": "Canvas",
             "label": {
                 "de": [
@@ -153,13 +147,13 @@
             "width": 1596,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/3/canvas/annotation-page",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/3/canvas/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
                             "id": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0159/annotation",
                             "type": "Annotation",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/3/canvas",
+                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/3/canvas",
                             "body": {
                                 "id": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0159/full/full/0/default.jpg",
                                 "type": "Image",
@@ -177,7 +171,7 @@
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/4/canvas",
+            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas",
             "type": "Canvas",
             "label": {
                 "de": [
@@ -188,13 +182,13 @@
             "width": 1597,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/4/canvas/annotation-page",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
                             "id": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0160/annotation",
                             "type": "Annotation",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/4/canvas",
+                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas",
                             "body": {
                                 "id": "https://content.staatsbibliothek-berlin.de/dc/1878144588-0160/full/full/0/default.jpg",
                                 "type": "Image",
@@ -212,7 +206,7 @@
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5/canvas",
+            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas",
             "type": "Canvas",
             "label": {
                 "de": [
@@ -223,13 +217,13 @@
             "width": 823,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5/canvas/annotation-page",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
                             "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0237/annotation",
                             "type": "Annotation",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5/canvas",
+                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas",
                             "body": {
                                 "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0237/full/full/0/default.jpg",
                                 "type": "Image",
@@ -247,7 +241,7 @@
             ]
         },
         {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas",
+            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/6/canvas",
             "type": "Canvas",
             "label": {
                 "de": [
@@ -258,13 +252,13 @@
             "width": 823,
             "items": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas/annotation-page",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/6/canvas/annotation-page",
                     "type": "AnnotationPage",
                     "items": [
                         {
                             "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0238/annotation",
                             "type": "Annotation",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas",
+                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/6/canvas",
                             "body": {
                                 "id": "https://content.staatsbibliothek-berlin.de/dc/1880377578-0238/full/full/0/default.jpg",
                                 "type": "Image",
