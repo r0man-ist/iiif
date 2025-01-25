@@ -1,7 +1,7 @@
 
         {
             "@context":"http://iiif.io/api/presentation/3/context.json",
-            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json",
+            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json",
             "type":"AnnotationPage",
             "items":[
                 
@@ -9,7 +9,7 @@
                 
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-1",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-1",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -19,12 +19,12 @@
                             
                     "value":"stört, empfingest du nicht. Auch"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=154,115,601,66"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=154,115,601,66"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-2",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-2",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -34,12 +34,12 @@
                             
                     "value":"säh‘ ich gern daß Ihr erst"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=141,183,583,67"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=141,183,583,67"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-3",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-3",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -49,12 +49,12 @@
                             
                     "value":"das Bild in Ruhe säht, nachher"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=126,245,618,80"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=126,245,618,80"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-4",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-4",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -64,12 +64,12 @@
                             
                     "value":"findet sich wohl weder Raum"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=127,325,609,72"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=127,325,609,72"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-5",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-5",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -79,12 +79,12 @@
                             
                     "value":"noch Zeit u. über beide erhaben"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=127,386,624,106"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=127,386,624,106"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-6",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-6",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -94,12 +94,12 @@
                             
                     "value":"wird eine Götter(Klatsch)stunde"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=129,469,607,79"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=129,469,607,79"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-7",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-7",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -109,12 +109,12 @@
                             
                     "value":"gefeyert."
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=138,553,173,71"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=138,553,173,71"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-8",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-8",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -124,12 +124,12 @@
                             
                     "value":"Liebe Wirthin „komme bald!“"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=185,621,567,81"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=185,621,567,81"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-9",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-9",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -139,12 +139,12 @@
                             
                     "value":"Du wirst den über den See ge-"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=126,707,615,74"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=126,707,615,74"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-10",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-10",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -154,12 +154,12 @@
                             
                     "value":"sandten Falken ja mindestens"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=135,782,598,83"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=135,782,598,83"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-11",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-11",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -169,12 +169,12 @@
                             
                     "value":"im Bilde finden."
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=100,864,394,62"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=100,864,394,62"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-12",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-12",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -184,12 +184,12 @@
                             
                     "value":"Auf Wiedersehn! Mit doppel-"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=176,935,533,73"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=176,935,533,73"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-13",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-13",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -199,12 +199,12 @@
                             
                     "value":"ter Lust sag ichs heut. Komme gern."
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=129,1000,621,104"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=129,1000,621,104"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-14",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-14",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -214,12 +214,12 @@
                             
                     "value":"Der Erwartende"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=438,1073,290,75"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=438,1073,290,75"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-15",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-15",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -229,12 +229,12 @@
                             
                     "value":"Ist aber eins unsrer Liebsten krank be-"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=60,1113,668,74"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=60,1113,668,74"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-16",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-16",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -244,12 +244,12 @@
                             
                     "value":"stellen wir Alles ab. Gott verhüt‘s."
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=57,1167,598,49"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=57,1167,598,49"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-17",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-17",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -259,12 +259,12 @@
                             
                     "value":"Schicke mir doch das Buch mit Gans. Und deins"
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=63,140,60,966"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=63,140,60,966"
                         
                     },
                     
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json-18",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-18",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -274,7 +274,7 @@
                             
                     "value":"etwan auch, da ists mehr als ob du hier zu Hause bist."
                         },
-                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=20,62,62,1037"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=20,62,62,1037"
                         
                     }
             ]
