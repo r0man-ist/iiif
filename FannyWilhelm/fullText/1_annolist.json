@@ -1,17 +1,31 @@
 {
     "@context":"http://iiif.io/api/presentation/3/context.json",
     "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
+    "metadata": [
+        {
+          "label": {
+            "en": [
+              "Note"
+            ]
+          },
+          "value": {
+            "en": [
+              "Empty"
+            ]
+          }
+        }
+      ],
     "type":"AnnotationPage",
     "items":[                 
         {
-        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-1",
-        "type":"Annotation",
-        "motivation":"tagging",
-        "body":
-            {
-            "type":"TextualBody",
-            "format":"text/html",
-            "value":"101"
+            "id": "https://artfl-iiif.uchicago.edu/encyclopedie/arbre_genealogique/annotation/p0001-tag",
+            "type": "Annotation",
+            "motivation": "tagging",
+            "body": {
+              "type": "TextualBody",
+              "language": "fr",
+              "format": "text/html",
+              "value": "L'Entendement"
             },
         "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/1/canvas#xywh=1006,37,73,56"
         }
