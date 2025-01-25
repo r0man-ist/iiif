@@ -1,0 +1,252 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/3/context.json",
+            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json",
+            "type":"AnnotationPage",
+            "items":[
+                
+                   
+                
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-1",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Ist unser Schwesterchen wieder ganz? Grüße mir"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=163,109,1015,80"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-2",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"das gute Kind."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=160,196,305,69"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-3",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Und nun über die morgende Staatsaktion noch"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=197,273,993,60"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-4",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"etwas, mit der ich Staat machen will, wozu"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=170,352,1033,71"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-5",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"du helfen mußt, liebe Statthalterin. Gieb nicht"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=175,420,1045,92"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-6",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"zu haushälterischen Rath, ich habe ja eine Partie"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=179,506,1041,99"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-7",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Süßigkeit zu gut beim Geschick, da ich meine"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=174,598,1031,96"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-8",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"nicht genossen habe, laß sie uns allso mit"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=201,684,1015,87"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-9",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Geschick verwenden morgen. Wie soll der"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=210,766,960,84"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-10",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"gloriose Kuchen heißen der die Krone des"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=189,851,1011,80"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-11",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Ganzen macht? Taufe, ich kaufe ihn. Der"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=182,935,1012,72"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-12",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"muß wohl heut bestellt werden, drum frag‘"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=178,1022,997,70"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-13",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"ich schon. Und kühlen wir den Enthusiasmus"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=181,1085,1025,94"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-14",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"nachher mit Eis, um ihn mehr zu entflammen?"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=175,1171,1050,91"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-15",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Gieb Vorschrift, das andre u. Geschirre giebt"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=174,1249,1039,88"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2_annolist.json-16",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Stehely. Bestimme nur die Stunde auch."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=172,1328,961,81"
+                        
+                    }
+            ]
+        }
+    

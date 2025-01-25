@@ -1,0 +1,252 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/3/context.json",
+            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json",
+            "type":"AnnotationPage",
+            "items":[
+                
+                   
+                
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-1",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"102"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=648,61,62,49"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-2",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Wie geht es Vater u. Beckchen"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=149,121,588,62"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-3",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"heut? Ich hoffe daß gute Wetter"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=126,185,647,83"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-4",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"hat seine Wirkung gethan u. mei-"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=127,266,647,76"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-5",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"ne Werkstatt faßt heut das"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=126,341,610,63"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-6",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"ganze lebende Familienbild."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=122,414,615,56"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-7",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Allso bitten wir Tante Meyer"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=132,477,638,78"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-8",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"u. Beers auch, aber wie am"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=128,556,607,61"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-9",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"schicklichsten? Wärs nicht am"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=106,634,626,70"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-10",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"besten du schriebst ihr eine"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=108,697,624,62"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-11",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Zeile u. meine Botin brächte"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=124,766,634,57"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-12",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"sie gleich hin? Oder, soll ich schrei-"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=110,832,663,86"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-13",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"ben, wann? Oder hingehn? Sag!"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=103,899,673,103"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-14",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Sorge nur freundlich daß Ihr nicht"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=150,961,633,118"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-15",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"zu spät kommt; Bedeutung u."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=101,1037,602,72"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/5_annolist.json-16",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Freude wären mehr als halb ge"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=117,1102,658,77"
+                        
+                    }
+            ]
+        }
+    

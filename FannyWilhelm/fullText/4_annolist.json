@@ -1,0 +1,27 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/3/context.json",
+            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/4_annolist.json",
+            "type":"AnnotationPage",
+            "items":[
+                
+                   
+                
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/4_annolist.json-1",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Herrn Wilhelm Henſel"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=61,1090,574,96"
+                        
+                    }
+            ]
+        }
+    

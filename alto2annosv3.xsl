@@ -3,14 +3,14 @@
     xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#"> <!-- note this namespace may need to change for different versions of ALTO -->
     <xsl:output method="text"/>
     <!-- This needs to resolve to the annotation list: -->
-    <xsl:param name="annoURI" select="'https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json'" />
+    <xsl:param name="annoURI" select="'https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6_annolist.json'" />
 
     <!--
         The ALTO may have been generated from the TIFF, if so the jp2 or IIIF image might be a different size. If so
         use the following ratios to reduce the TIFF coordinators to the IIIF image coordinates:
     -->
-    <xsl:param name="xRatio" select="'3'"/>
-    <xsl:param name="yRatio" select="'3'"/>
+    <xsl:param name="xRatio" select="'1'"/>
+    <xsl:param name="yRatio" select="'1'"/>
 
     <!-- Links to the canvas for the annotation and the manifest for the within -->
     <xsl:param name="canvasURI" select="'http://dams.llgc.org.uk/iiif/3320640/canvas/3320641'" />
@@ -31,9 +31,9 @@
             "items":[
                 
                    
-                <xsl:for-each select="/alto:alto/alto:Layout/alto:Page/alto:PrintSpace//alto:TextBlock//alto:TextLine/*">
+                <xsl:for-each select="/alto:alto/alto:Layout/alto:Page/alto:PrintSpace//alto:TextBlock//alto:TextLine">
                     <!--If you want word level annotations use the following:
-                    <xsl:for-each select="/alto:alto/alto:Layout/alto:Page/alto:PrintSpace//alto:TextBlock//alto:TextLine">-->
+                    <xsl:for-each select="/alto:alto/alto:Layout/alto:Page/alto:PrintSpace//alto:TextBlock//alto:TextLine/*">-->
                     {
                         "id": "<xsl:value-of select="$annoURI"/>-<xsl:value-of select="position()"/>",
                         "type":"Annotation",

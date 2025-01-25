@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>159_731c2_default.jpg</fileName>
+      <fileIdentifier>https://content.staatsbibliothek-berlin.de/dc/1878144588-0160/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT1929" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT1147" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1597"
+          HEIGHT="1764"
+          PHYSICAL_IMG_NR="159"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1597"
+                  HEIGHT="1764">
+        <TextBlock HPOS="35"
+                   VPOS="1085"
+                   WIDTH="633"
+                   HEIGHT="105"
+                   ID="eSc_textblock_ef1e37f3"
+                   TAGREFS="BT1929">
+          <Shape><Polygon POINTS="215 1085 532 1101 645 1093 664 1105 668 1159 637 1190 39 1186 35 1140 50 1101 215 1085"/></Shape>
+          <TextLine ID="eSc_line_29466362"
+                    BASELINE="636 1131 423 1125 195 1121 64 1127" 
+                    HPOS="61"
+                    VPOS="1090"
+                    WIDTH="574"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="63 1126 61 1178 89 1183 91 1183 92 1183 101 1180 141 1164 173 1181 176 1183 177 1183 191 1183 197 1181 229 1173 242 1181 244 1183 249 1183 264 1183 297 1177 326 1183 333 1184 339 1184 345 1184 347 1183 372 1158 504 1158 520 1167 522 1167 523 1167 524 1167 561 1159 594 1186 604 1186 619 1186 633 1186 635 1130 630 1096 622 1103 589 1098 580 1096 579 1096 577 1096 576 1096 574 1098 560 1106 404 1109 392 1101 382 1092 380 1092 379 1092 323 1092 322 1092 320 1092 289 1102 276 1106 270 1102 251 1090 249 1090 248 1090 217 1090 216 1090 214 1090 213 1090 213 1092 205 1098 197 1090 195 1090 194 1090 192 1090 191 1090 189 1090 179 1098 108 1092 107 1092 105 1092 63 1105 63 1126"/></Shape>
+	    <String CONTENT="Herrn Wilhelm Henſel"
+                    HPOS="61"
+                    VPOS="1090"
+                    WIDTH="574"
+                    HEIGHT="96"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
