@@ -10,7 +10,7 @@
         "body":
             {
             "type":"TextualBody",
-            "format":"text/plain",
+            "format":"text/html",
             "value":"101"
             },
         "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/1/canvas#xywh=1006,37,73,56"

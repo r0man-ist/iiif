@@ -99,7 +99,7 @@
                     ],
                     "annotations": [
                         {
-                            "id": "https://artfl-iiif.uchicago.edu/montaigne_manifests/annotation_json/annotation_0376v.json",
+                            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
                             "type": "AnnotationPage"
                          }   
                     ]
