@@ -1,0 +1,582 @@
+
+        {
+            "@context":"http://iiif.io/api/presentation/3/context.json",
+            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json",
+            "type":"AnnotationPage",
+            "items":[
+                
+                   
+                
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-1",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-2",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Diesmal iſt dein Brief ſo praktiſch, daß ich"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=87.66666666666667,29.333333333333332,404.3333333333333,35.666666666666664"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-3",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-4",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"ordentlich vornehmen muß, um ihn Stück"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=85.66666666666667,60,425.6666666666667,32.333333333333336"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-5",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-6",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"vor Stück zu beantworten. Rebecka hat"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=39.666666666666664,92.33333333333333,459,27"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-7",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-8",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"noch etwas Magenſchmerz übrig, aber wenig."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=40.333333333333336,124.66666666666667,469.6666666666667,23.666666666666668"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-9",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-10",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Dagegen iſt Vater nicht wohl, ich hoffe, er ſoll"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=39,153.66666666666666,469,30.666666666666668"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-11",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-12",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"uns keinen Queerſtrich machen."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=38.333333333333336,184,363.6666666666667,24.333333333333332"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-13",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-14",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Der Kuchen kann, wenn du willſt, Butter-"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=50.333333333333336,210.66666666666666,462.3333333333333,23.333333333333332"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-15",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-16",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"kuchen heißen, er iſt ein edler Mann, u."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=37.333333333333336,236,470.3333333333333,27"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-17",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-18",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"zu Chocolade prächtig zu brauchen, gegen Eis,"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=42,261.6666666666667,458,31.333333333333332"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-19",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-20",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"erkläre ich mich, aus manchen Gründen, die"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=37.666666666666664,290.3333333333333,465.3333333333333,25.666666666666668"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-21",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-22",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"ich dir mündlich auseinander ſetzen werde."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=41.333333333333336,317.3333333333333,470.6666666666667,27.666666666666668"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-23",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-24",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Wenn nur Vater nicht das Fieber bekömmt, das"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=36.333333333333336,339.3333333333333,465.3333333333333,32.666666666666664"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-25",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-26",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"wäre der übelſte Queerſtrich."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=34.666666666666664,372,330,28"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-27",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-28",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Beſtelle Gans, ich denke wir gehn nicht in dem"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=39,394,473,34.333333333333336"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-29",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-30",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Wetter, aber komme, wenn du die Gans gerupft"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=39,426.3333333333333,469.6666666666667,31"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-31",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-32",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"hast."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=40.666666666666664,449.6666666666667,45.333333333333336,31.333333333333332"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-33",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-34",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Deine Fanny."
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=247.66666666666666,455,148,18.666666666666668"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-35",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-36",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Morgen denk ich, um 12"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=39,479.3333333333333,276.6666666666667,26.666666666666668"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-37",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":""
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=NaN,NaN,NaN,NaN"
+                        
+                    },
+                    
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/anno_list.json-38",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"79"
+                        },
+                        "target":"http://dams.llgc.org.uk/iiif/3320640/canvas/3320641#xywh=59.666666666666664,539.3333333333334,24,30.333333333333332"
+                        
+                    }
+            ]
+        }
+    
