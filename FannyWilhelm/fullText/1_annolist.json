@@ -5,16 +5,16 @@
     "type":"AnnotationPage",
     "items":[                 
         {
-            "id": "https://artfl-iiif.uchicago.edu/encyclopedie/arbre_genealogique/annotation/p0001-tag",
+            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-1",
             "type": "Annotation",
             "motivation": "tagging",
             "body": {
               "type": "TextualBody",
               "language": "fr",
               "format": "text/html",
-              "value": "L'Entendement"
+              "value": "101"
             },
-        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/1/canvas#xywh=1006,37,73,56"
+        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/1/canvas#xywh=1006,37,73,56"
         }
         ]
         }
