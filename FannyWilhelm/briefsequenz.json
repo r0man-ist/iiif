@@ -96,6 +96,12 @@
                                 ]
                             }
                         }
+                    ],
+                    "annotations": [
+                        {
+                            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
+                            "type": "AnnotationPage"
+                         }   
                     ]
                 }
             ]
