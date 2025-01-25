@@ -6,7 +6,7 @@
         {
         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-1",
         "type":"Annotation",
-        "motivation":"commenting",
+        "motivation":"tagging",
         "body":
             {
             "type":"TextualBody",
