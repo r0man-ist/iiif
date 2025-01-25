@@ -73,8 +73,8 @@
                     "1"
                 ]
             },
-            "height": 1540,
-            "width": 1267,
+            "height": 900,
+            "width": 600,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas/annotation-page",
@@ -103,7 +103,7 @@
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
                     "type": "AnnotationPage"
-                 }   
+                }
             ]
         },
         {
@@ -114,8 +114,8 @@
                     "2"
                 ]
             },
-            "height": 1540,
-            "width": 1267,
+            "height": 900,
+            "width": 600,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas/annotation-page",
@@ -139,6 +139,12 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json",
+                    "type": "AnnotationPage"
+                }
             ]
         },
         {
@@ -149,8 +155,8 @@
                     "3"
                 ]
             },
-            "height": 1764,
-            "width": 1596,
+            "height": 900,
+            "width": 600,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/3/canvas/annotation-page",
@@ -174,6 +180,12 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/3_annolist.json",
+                    "type": "AnnotationPage"
+                }
             ]
         },
         {
@@ -184,8 +196,8 @@
                     "4"
                 ]
             },
-            "height": 1764,
-            "width": 1597,
+            "height": 900,
+            "width": 600,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas/annotation-page",
@@ -209,6 +221,12 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json",
+                    "type": "AnnotationPage"
+                }
             ]
         },
         {
@@ -219,8 +237,8 @@
                     "5"
                 ]
             },
-            "height": 1256,
-            "width": 823,
+            "height": 900,
+            "width": 600,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas/annotation-page",
@@ -244,6 +262,12 @@
                         }
                     ]
                 }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json",
+                    "type": "AnnotationPage"
+                }
             ]
         },
         {
@@ -254,8 +278,8 @@
                     "6"
                 ]
             },
-            "height": 1256,
-            "width": 823,
+            "height": 900,
+            "width": 600,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/6/canvas/annotation-page",
@@ -278,6 +302,12 @@
                             }
                         }
                     ]
+                }
+            ],
+            "annotations": [
+                {
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json",
+                    "type": "AnnotationPage"
                 }
             ]
         }
