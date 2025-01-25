@@ -139,12 +139,6 @@
                         }
                     ]
                 }
-            ],
-            "annotations": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json",
-                    "type": "AnnotationPage"
-                 }   
             ]
         },
         {
