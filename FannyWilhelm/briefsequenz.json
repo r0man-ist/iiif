@@ -7,12 +7,7 @@
             "Hensel, Wilhelm/Fanny Hensel: Briefsequenz aus der Verlobungszeit 1829"
         ]
     },
-    "summary": [
-        {
-            "label": "Zu diesem Objekt",
-            "value": "Bei diesem virtuellen Objekt handelt es sich um eine Briefsequenz aus dem Briefwechsel zwischen Fanny Mendelssohn-Bartholdy und Wilhelm Hensel. Der gesamte erhaltene Briefwechsel ist in den digitalisierten Sammlungen der Staatsbibliothek zu Berlin in drei Objekten enthalten (siehe unter seeAlso). Dieses Objekt fasst Briefe zusammen, die offensichtlich direkt aufeinander folgen. Die Transkriptionen und die Zuordnung zu Briefsequenzen sind im Seminarprojekt 'Fanny Loves Wilhelm' in Zusammenarbeit von Staatsbibliothek zu Berlin und UdK entstanden."
-        }
-    ],
+    "summary": "This is a required statement",
     "metadata": [
         {
             "label": "Autor",
@@ -39,6 +34,10 @@
         {
             "label": "Lizenz",
             "value": "Public Domain Mark 1.0"
+        },
+        {
+            "label": "Note",
+            "value": "Bei diesem virtuellen Objekt handelt es sich um eine Briefsequenz aus dem Briefwechsel zwischen Fanny Mendelssohn-Bartholdy und Wilhelm Hensel. Der gesamte erhaltene Briefwechsel ist in den digitalisierten Sammlungen der Staatsbibliothek zu Berlin in drei Objekten enthalten (siehe unter seeAlso). Dieses Objekt fasst Briefe zusammen, die offensichtlich direkt aufeinander folgen. Die Transkriptionen und die Zuordnung zu Briefsequenzen sind im Seminarprojekt 'Fanny Loves Wilhelm' in Zusammenarbeit von Staatsbibliothek zu Berlin und UdK entstanden."
         }
     ],
     "provider": [
@@ -73,8 +72,8 @@
                     "1"
                 ]
             },
-            "height": 900,
-            "width": 600,
+            "height": 1540,
+            "width": 1267,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas/annotation-page",
@@ -114,8 +113,8 @@
                     "2"
                 ]
             },
-            "height": 900,
-            "width": 600,
+            "height": 1540,
+            "width": 1267,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas/annotation-page",
@@ -155,8 +154,8 @@
                     "3"
                 ]
             },
-            "height": 900,
-            "width": 600,
+            "height": 1764,
+            "width": 1596,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/3/canvas/annotation-page",
@@ -196,8 +195,8 @@
                     "4"
                 ]
             },
-            "height": 900,
-            "width": 600,
+            "height": 1764,
+            "width": 1597,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas/annotation-page",
@@ -237,8 +236,8 @@
                     "5"
                 ]
             },
-            "height": 900,
-            "width": 600,
+            "height": 1256,
+            "width": 823,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas/annotation-page",
@@ -278,8 +277,8 @@
                     "6"
                 ]
             },
-            "height": 900,
-            "width": 600,
+            "height": 1256,
+            "width": 823,
             "items": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/6/canvas/annotation-page",
