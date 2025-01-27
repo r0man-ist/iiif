@@ -7,7 +7,6 @@
             "Hensel, Wilhelm/Fanny Hensel: Briefsequenz aus der Verlobungszeit 1829"
         ]
     },
-    "summary": "This is a required statement",
     "metadata": [
         {
             "label": "Autor",
@@ -61,6 +60,35 @@
                     "format": "text/html"
                 }
             ]
+        }
+    ],
+    "seeAlso": [
+        {
+            "id": "https://resolver.staatsbibliothek-berlin.de/SBB00035B5E00000000",
+            "type": "Digital object",
+            "label": {
+                "de": [
+                    "Digitalisierte Sammmlungen"
+                ]
+            }
+        },
+        {
+            "id": "https://resolver.staatsbibliothek-berlin.de/SBB00035B6800000000",
+            "type": "Digital object",
+            "label": {
+                "de": [
+                    "Digitalisierte Sammmlungen"
+                ]
+            }
+        },
+        {
+            "id": "https://resolver.staatsbibliothek-berlin.de/SBB00035DA100000000",
+            "type": "Digital object",
+            "label": {
+                "de": [
+                    "Digitalisierte Sammmlungen"
+                ]
+            }
         }
     ],
     "items": [
