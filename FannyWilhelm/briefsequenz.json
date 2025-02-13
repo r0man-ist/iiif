@@ -9,34 +9,78 @@
     },
     "metadata": [
         {
-            "label": "Autor",
-            "value": [
-                "Hensel, Fanny",
-                "Hensel, Wilhelm"
-            ]
+            "label": {
+                "de": [
+                    "Autor"
+                ]
+            },
+            "value": {
+                "de": [
+                    "Hensel, Fanny",
+                    "Hensel, Wilhelm"
+                ]
+            }
         },
         {
-            "label": "Titel",
-            "value": "Briefsequenz aus der Verlobungszeit von Fanny und Wilhelm Hensel, 1829"
+            "label": {
+                "de": [
+                    "Titel"
+                ]
+            },
+            "value": {
+                "de": [
+                    "Briefsequenz aus der Verlobungszeit von Fanny und Wilhelm Hensel, 1829"
+                ]
+            }
         },
         {
-            "label": "Signaturen",
-            "value": [
-                "MA Depos. 3,5",
-                "MA Depos. 3,6"
-            ]
+            "label": {
+                "de": [
+                    "Signaturen"
+                ]
+            },
+            "value": {
+                "de": [
+                    "MA Depos. 3,5",
+                    "MA Depos. 3,6"
+                ]
+            }
         },
         {
-            "label": "Sprache",
-            "value": "ger"
+            "label": {
+                "de": [
+                    "Sprache"
+                ]
+            },
+            "value": {
+                "de": [
+                    "ger"
+                ]
+            }
         },
         {
-            "label": "Lizenz",
-            "value": "Public Domain Mark 1.0"
+            "label": {
+                "de": [
+                    "Lizenz"
+                ]
+            },
+            "value": {
+                "de": [
+                    "Public Domain Mark 1.0"
+                ]
+            }
         },
         {
-            "label": "Note",
-            "value": "Bei diesem virtuellen Objekt handelt es sich um eine Briefsequenz aus dem Briefwechsel zwischen Fanny Mendelssohn-Bartholdy und Wilhelm Hensel. Der gesamte erhaltene Briefwechsel ist in den digitalisierten Sammlungen der Staatsbibliothek zu Berlin in drei Objekten enthalten (siehe unter seeAlso). Dieses Objekt fasst Briefe zusammen, die offensichtlich direkt aufeinander folgen. Die Transkriptionen und die Zuordnung zu Briefsequenzen sind im Seminarprojekt 'Fanny Loves Wilhelm' in Zusammenarbeit von Staatsbibliothek zu Berlin und UdK entstanden."
+            "label": {
+                "de": [
+                    "Anmerkung"
+                ]
+            },
+            "value": {
+                "de": [
+                    "Bei diesem virtuellen Objekt handelt es sich um eine Briefsequenz aus dem Briefwechsel zwischen Fanny Mendelssohn-Bartholdy und Wilhelm Hensel. Der gesamte erhaltene Briefwechsel ist in den digitalisierten Sammlungen der Staatsbibliothek zu Berlin in drei Objekten enthalten (siehe unter seeAlso). Dieses Objekt fasst Briefe zusammen, die offensichtlich direkt aufeinander folgen. Die Transkriptionen und die Zuordnung zu Briefsequenzen sind im Seminarprojekt 'Fanny Loves Wilhelm' in Zusammenarbeit von Staatsbibliothek zu Berlin und UdK entstanden."
+                ]
+            }
         }
     ],
     "provider": [
