@@ -112,9 +112,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/1/canvas",
             "label": {
-                "none": [
-                    "Canvas 1"
-                ]
+                "de": "1"
             },
             "thumbnail": [
                 {
@@ -215,9 +213,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/2/canvas",
             "label": {
-                "none": [
-                    "Canvas 2"
-                ]
+                "de": "2"
             },
             "thumbnail": [
                 {
@@ -318,9 +314,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/3/canvas",
             "label": {
-                "none": [
-                    "Canvas 3"
-                ]
+                "de": "3"
             },
             "thumbnail": [
                 {
@@ -421,9 +415,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/4/canvas",
             "label": {
-                "none": [
-                    "Canvas 4"
-                ]
+                "de": "4"
             },
             "thumbnail": [
                 {
@@ -524,9 +516,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/5/canvas",
             "label": {
-                "none": [
-                    "Canvas 5"
-                ]
+                "de": "5"
             },
             "thumbnail": [
                 {
@@ -627,9 +617,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/6/canvas",
             "label": {
-                "none": [
-                    "Canvas 6"
-                ]
+                "de": "6"
             },
             "thumbnail": [
                 {
@@ -730,9 +718,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/7/canvas",
             "label": {
-                "none": [
-                    "Canvas 7"
-                ]
+                "de": "7"
             },
             "thumbnail": [
                 {
@@ -833,9 +819,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/8/canvas",
             "label": {
-                "none": [
-                    "Canvas 8"
-                ]
+                "de": "8"
             },
             "thumbnail": [
                 {
@@ -936,9 +920,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/9/canvas",
             "label": {
-                "none": [
-                    "Canvas 9"
-                ]
+                "de": "9"
             },
             "thumbnail": [
                 {
@@ -1039,9 +1021,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/10/canvas",
             "label": {
-                "none": [
-                    "Canvas 10"
-                ]
+                "de": "10"
             },
             "thumbnail": [
                 {
@@ -1114,9 +1094,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/11/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0001)"
-                ]
+                "de": "11"
             },
             "height": 1806,
             "width": 1141,
@@ -1170,9 +1148,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/12/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0002)"
-                ]
+                "de": "12"
             },
             "height": 1806,
             "width": 1054,
@@ -1226,9 +1202,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/13/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0003)"
-                ]
+                "de": "13"
             },
             "height": 1657,
             "width": 1106,
@@ -1282,9 +1256,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/14/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0004)"
-                ]
+                "de": "14"
             },
             "height": 1657,
             "width": 1089,
@@ -1338,9 +1310,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/15/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0005)"
-                ]
+                "de": "15"
             },
             "height": 1657,
             "width": 1106,
@@ -1394,9 +1364,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/16/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0006)"
-                ]
+                "de": "16"
             },
             "height": 1657,
             "width": 1089,
@@ -1450,9 +1418,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/17/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0007)"
-                ]
+                "de": "17"
             },
             "height": 1657,
             "width": 1106,
@@ -1506,9 +1472,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/18/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0008)"
-                ]
+                "de": "18"
             },
             "height": 1657,
             "width": 1089,
@@ -1562,9 +1526,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/19/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0009)"
-                ]
+                "de": "19"
             },
             "height": 1657,
             "width": 1106,
@@ -1618,9 +1580,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/20/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0010)"
-                ]
+                "de": "20"
             },
             "height": 1657,
             "width": 1089,
@@ -1674,9 +1634,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/21/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0011)"
-                ]
+                "de": "21"
             },
             "height": 1657,
             "width": 1106,
@@ -1730,9 +1688,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/22/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0012)"
-                ]
+                "de": "22"
             },
             "height": 1657,
             "width": 1089,
@@ -1786,9 +1742,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/23/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0013)"
-                ]
+                "de": "23"
             },
             "height": 1657,
             "width": 1106,
@@ -1842,9 +1796,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/24/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0014)"
-                ]
+                "de": "24"
             },
             "height": 1657,
             "width": 1089,
@@ -1898,9 +1850,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/25/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0015)"
-                ]
+                "de": "25"
             },
             "height": 1657,
             "width": 1106,
@@ -1954,9 +1904,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/26/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0016)"
-                ]
+                "de": "26"
             },
             "height": 1657,
             "width": 1089,
@@ -2010,9 +1958,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/27/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0017)"
-                ]
+                "de": "27"
             },
             "height": 1657,
             "width": 1106,
@@ -2066,9 +2012,7 @@
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/28/canvas",
             "type": "Canvas",
             "label": {
-                "@de": [
-                    "(0018)"
-                ]
+                "de": "28"
             },
             "height": 1657,
             "width": 1089,
@@ -2150,9 +2094,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/29/canvas",
             "label": {
-                "none": [
-                    ""
-                ]
+                "de": "29"
             },
             "thumbnail": [
                 {
@@ -2253,9 +2195,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/30/canvas",
             "label": {
-                "none": [
-                    ""
-                ]
+                "de": "30"
             },
             "thumbnail": [
                 {
@@ -2356,9 +2296,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/31/canvas",
             "label": {
-                "none": [
-                    ""
-                ]
+                "de": "31"
             },
             "thumbnail": [
                 {
@@ -2459,9 +2397,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/32/canvas",
             "label": {
-                "none": [
-                    ""
-                ]
+                "de": "32"
             },
             "thumbnail": [
                 {
@@ -2562,9 +2498,7 @@
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/33/canvas",
             "label": {
-                "none": [
-                    ""
-                ]
+                "de": "33"
             },
             "thumbnail": [
                 {
@@ -2630,1014 +2564,6 @@
                             "https://collections.library.yale.edu/catalog/17384255?child_oid=17384260"
                         ]
                     }
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/34/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0001)"
-                ]
-            },
-            "height": 1806,
-            "width": 1141,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/1",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/34/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/efc70041-00b7-4b07-97e7-d39c4d96c38a",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/34/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00001/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1806,
-                                "width": 1141,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00001",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008206952965235175,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/35/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0002)"
-                ]
-            },
-            "height": 1806,
-            "width": 1054,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/2",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/35/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/6247d3a4-e768-4670-a57f-03a85c434b5c",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/35/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00002/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1806,
-                                "width": 1054,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00002",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008884376976597089,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/36/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0003)"
-                ]
-            },
-            "height": 1657,
-            "width": 1106,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/3",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/36/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/53401be0-e4c6-4b81-b879-0e438d950d24",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/36/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00003/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1106,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00003",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008466666666666666,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/37/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0004)"
-                ]
-            },
-            "height": 1657,
-            "width": 1089,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/4",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/37/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/39e38849-f4cf-409e-81af-bb7c06084791",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/37/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00004/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1089,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00004",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008598836853382308,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/38/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0005)"
-                ]
-            },
-            "height": 1657,
-            "width": 1106,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/5",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/38/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/91018621-ef8d-478b-9007-acd1f775ddfe",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/38/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00005/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1106,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00005",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008466666666666666,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/39/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0006)"
-                ]
-            },
-            "height": 1657,
-            "width": 1089,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/6",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/39/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/7c57a254-d779-42a3-b650-34b47aece13e",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/39/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00006/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1089,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00006",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008598836853382308,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/40/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0007)"
-                ]
-            },
-            "height": 1657,
-            "width": 1106,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/7",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/40/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/263973ca-872e-425b-8ea1-94db56e34e8f",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/40/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00007/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1106,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00007",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008466666666666666,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/41/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0008)"
-                ]
-            },
-            "height": 1657,
-            "width": 1089,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/8",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/41/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/4b6ce55f-7ddf-4050-ad3a-96c9c067a015",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/41/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00008/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1089,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00008",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008598836853382308,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/42/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0009)"
-                ]
-            },
-            "height": 1657,
-            "width": 1106,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/9",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/42/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/868cc4f8-1752-4cc7-8625-7f8c14cbd530",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/42/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00009/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1106,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00009",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008466666666666666,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/43/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0010)"
-                ]
-            },
-            "height": 1657,
-            "width": 1089,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/10",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/43/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/f4f1fe03-02b3-4415-afe7-bcc473b6a8a0",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/43/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00010/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1089,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00010",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008598836853382308,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/44/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0011)"
-                ]
-            },
-            "height": 1657,
-            "width": 1106,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/11",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/44/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/56907df1-05aa-44b8-b350-23454c1914d3",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/44/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00011/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1106,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00011",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008466666666666666,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/45/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0012)"
-                ]
-            },
-            "height": 1657,
-            "width": 1089,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/12",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/45/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/f1e86ffb-0735-4d25-a363-fd05298d76e5",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/45/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00012/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1089,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00012",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008598836853382308,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/46/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0013)"
-                ]
-            },
-            "height": 1657,
-            "width": 1106,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/13",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/46/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/5c3a64ba-5e20-41b2-a408-de5561b45dc1",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/46/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00013/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1106,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00013",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008466666666666666,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/47/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0014)"
-                ]
-            },
-            "height": 1657,
-            "width": 1089,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/14",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/47/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/2222cae6-a5ed-46f3-9241-61710722a8cc",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/47/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00014/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1089,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00014",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008598836853382308,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/48/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0015)"
-                ]
-            },
-            "height": 1657,
-            "width": 1106,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/15",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/48/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/5e359a50-f87c-41f9-afde-e16a58135c60",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/48/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00015/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1106,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00015",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008466666666666666,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/49/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0016)"
-                ]
-            },
-            "height": 1657,
-            "width": 1089,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/16",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/49/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/439520f8-3ed9-43a9-894c-7b7836e6a3ce",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/49/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00016/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1089,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00016",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008598836853382308,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/50/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0017)"
-                ]
-            },
-            "height": 1657,
-            "width": 1106,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/17",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/50/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/d8c7c719-4110-4c90-929f-adf614fd08b0",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/50/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00017/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1106,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00017",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008466666666666666,
-                    "physicalUnits": "cm"
-                }
-            ]
-        },
-        {
-            "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/51/canvas",
-            "type": "Canvas",
-            "label": {
-                "@de": [
-                    "(0018)"
-                ]
-            },
-            "height": 1657,
-            "width": 1089,
-            "seeAlso": [
-                {
-                    "id": "https://api.digitale-sammlungen.de/ocr/bsb00062258/18",
-                    "type": "Dataset",
-                    "profile": "http://kba.github.io/hocr-spec/1.2/"
-                }
-            ],
-            "items": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/51/canvas/annotation-page",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://example.org/uuid/a19fafa3-03fa-4c46-82fb-6f842793fd28",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "target": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/51/canvas",
-                            "body": {
-                                "id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00018/full/full/0/default.jpg",
-                                "type": "Image",
-                                "format": "image/jpeg",
-                                "height": 1657,
-                                "width": 1089,
-                                "service": [
-                                    {
-                                        "@id": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00062258_00018",
-                                        "@type": "ImageService2",
-                                        "profile": "http://iiif.io/api/image/2/level2.json",
-                                        "protocol": "http://iiif.io/api/image"
-                                    }
-                                ]
-                            }
-                        }
-                    ]
-                }
-            ],
-            "service": [
-                {
-                    "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
-                    "@type": "Service",
-                    "profile": "http://iiif.io/api/annex/services/physdim",
-                    "physicalScale": 0.008598836853382308,
-                    "physicalUnits": "cm"
                 }
             ]
         }
