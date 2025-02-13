@@ -1,0 +1,83 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829.json",
+    "type": "Manifest",
+    "label": {
+        "de": [
+            "Rekonstruktion des Sammelbandes Yd7829"
+        ]
+    },
+    "metadata": [
+        {
+            "label": {
+                "de": [
+                    "Sprache"
+                ]
+            },
+            "value": {
+                "de": [
+                    "ger"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Lizenz"
+                ]
+            },
+            "value": {
+                "de": [
+                    "Public Domain Mark 1.0"
+                ]
+            }
+        },
+        {
+            "label": {
+                "de": [
+                    "Anmerkung"
+                ]
+            },
+            "value": {
+                "de": [
+                    "Bei diesem virtuellen Objekt handelt es sich um eine Rekonstruktion des Sammelbandes mit der Signatur Yd7829, der seit 1929 an der Staatsbibliothek zu Berlin als vermisst gemeldet ist."
+                ]
+            }
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://lab.sbb.berlin",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Stabi Lab"
+                ]
+            },
+            "homepage": [
+                {
+                    "id": "https://lab.sbb.berlin",
+                    "type": "Text",
+                    "label": {
+                        "de": [
+                            "Stabi Lab Homepage"
+                        ]
+                    },
+                    "format": "text/html"
+                }
+            ]
+        }
+    ],
+    "seeAlso": [
+        {
+            "id": "https://cinquecentine.wordpress.com/2019/11/04/gestohlen-zerstueckelt-und-ueber-antiquariate-verkauft-geschichte-eines-konvoluts/",
+            "type": "text",
+            "label": {
+                "de": [
+                    "Blogbeitrag"
+                ]
+            }
+        }
+    ],
+    "items": []
+}
