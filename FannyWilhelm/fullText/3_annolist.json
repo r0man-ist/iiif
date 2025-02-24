@@ -3,6 +3,20 @@
             "@context":"http://iiif.io/api/presentation/3/context.json",
             "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/3_annolist.json",
             "type":"AnnotationPage",
+            "metadata": [
+      {
+        "label": {
+          "en": [
+            "Note"
+          ]
+        },
+        "value": {
+          "en": [
+            "Empty"
+          ]
+        }
+      }
+    ],
             "items":[
                 
                    
