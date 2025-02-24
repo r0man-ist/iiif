@@ -3,23 +3,37 @@
             "@context":"http://iiif.io/api/presentation/3/context.json",
             "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json",
             "type":"AnnotationPage",
-            "items":[
-                
-                   
-                
-                    
-                    {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-1",
-                        "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
+            {
+                "label": {
+                  "en": [
+                    "Note"
+                  ]
+                },
+                "value": {
+                  "en": [
+                    "Empty"
+                  ]
+                }
+              }
+            ],
+                    "items":[
+                        
+                           
+                        
                             
-                    "value":"Ist unser Schwesterchen wieder ganz? Grüße mir"
-                        },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=163,109,1015,80"
+                            {
+                                "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-1",
+                                "type":"Annotation",
+                                "motivation":"tagging",
+                                "body": {
+                  "type": "TextualBody",
+                  "language": "fr",
+                  "format": "text/html",
+                  "value": "L'Entendement"
+                },
+                                "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=1006,37,73,56"
+                                
+                            },
                         
                     },
                     
