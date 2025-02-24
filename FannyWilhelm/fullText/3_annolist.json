@@ -15,7 +15,8 @@
                         "body":
                         {
                             "type":"TextualBody",
-                            "format":"text/plain",
+                            "format":"text/html",
+                            "language": "de",
                             
                     "value":"Diesmal iſt dein Brief ſo praktiſch, daß ich"
                         },
