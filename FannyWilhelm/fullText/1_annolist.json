@@ -3,6 +3,20 @@
             "@context":"http://iiif.io/api/presentation/3/context.json",
             "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json",
             "type":"AnnotationPage",
+            "metadata": [
+      {
+        "label": {
+          "en": [
+            "Note"
+          ]
+        },
+        "value": {
+          "en": [
+            "Empty"
+          ]
+        }
+      }
+    ],
             "items":[
                 
                    
@@ -11,14 +25,13 @@
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json-1",
                         "type":"Annotation",
-                        "motivation":"commenting",
-                        "body":
-                        {
-                            "type":"TextualBody",
-                            "format":"text/plain",
-                            
-                    "value":"101"
-                        },
+                        "motivation":"tagging",
+                        "body": {
+          "type": "TextualBody",
+          "language": "fr",
+          "format": "text/html",
+          "value": "L'Entendement"
+        },
                         "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/6/canvas#xywh=1006,37,73,56"
                         
                     },
