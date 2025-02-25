@@ -7,7 +7,6 @@
                 
                    
                 
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-1",
                         "type":"Annotation",
@@ -19,7 +18,7 @@
                             
                     "value":"Herrn Wilhelm Henſel"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/4/canvas#xywh=61,1090,574,96"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=61,1090,574,96"
                         
                     }
             ]

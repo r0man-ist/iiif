@@ -3,40 +3,24 @@
             "@context":"http://iiif.io/api/presentation/3/context.json",
             "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json",
             "type":"AnnotationPage",
-            "metadata": [{
-                "label": {
-                  "en": [
-                    "Note"
-                  ]
-                },
-                "value": {
-                  "en": [
-                    "Empty"
-                  ]
-                }
-              }]
-            ,
-                    "items":[
-                        
-                           
-                        
+            "items":[
+                
+                   
+                
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-1",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
                             
-                            {
-                                "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-1",
-                                "type":"Annotation",
-                                "motivation":"tagging",
-                                "body": {
-                  "type": "TextualBody",
-                  "language": "fr",
-                  "format": "text/html",
-                  "value": "L'Entendement"
-                },
-                                "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=1006,37,73,56"
-                                
-                            },
+                    "value":"Ist unser Schwesterchen wieder ganz? Grüße mir"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=163,109,1015,80"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-2",
                         "type":"Annotation",
@@ -48,10 +32,9 @@
                             
                     "value":"das gute Kind."
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=160,196,305,69"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=160,196,305,69"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-3",
                         "type":"Annotation",
@@ -63,10 +46,9 @@
                             
                     "value":"Und nun über die morgende Staatsaktion noch"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=197,273,993,60"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=197,273,993,60"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-4",
                         "type":"Annotation",
@@ -78,10 +60,9 @@
                             
                     "value":"etwas, mit der ich Staat machen will, wozu"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=170,352,1033,71"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=170,352,1033,71"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-5",
                         "type":"Annotation",
@@ -93,10 +74,9 @@
                             
                     "value":"du helfen mußt, liebe Statthalterin. Gieb nicht"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=175,420,1045,92"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=175,420,1045,92"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-6",
                         "type":"Annotation",
@@ -108,10 +88,9 @@
                             
                     "value":"zu haushälterischen Rath, ich habe ja eine Partie"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=179,506,1041,99"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=179,506,1041,99"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-7",
                         "type":"Annotation",
@@ -123,10 +102,9 @@
                             
                     "value":"Süßigkeit zu gut beim Geschick, da ich meine"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=174,598,1031,96"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=174,598,1031,96"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-8",
                         "type":"Annotation",
@@ -138,10 +116,9 @@
                             
                     "value":"nicht genossen habe, laß sie uns allso mit"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=201,684,1015,87"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=201,684,1015,87"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-9",
                         "type":"Annotation",
@@ -153,10 +130,9 @@
                             
                     "value":"Geschick verwenden morgen. Wie soll der"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=210,766,960,84"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=210,766,960,84"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-10",
                         "type":"Annotation",
@@ -168,10 +144,9 @@
                             
                     "value":"gloriose Kuchen heißen der die Krone des"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=189,851,1011,80"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=189,851,1011,80"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-11",
                         "type":"Annotation",
@@ -183,10 +158,9 @@
                             
                     "value":"Ganzen macht? Taufe, ich kaufe ihn. Der"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=182,935,1012,72"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=182,935,1012,72"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-12",
                         "type":"Annotation",
@@ -198,10 +172,9 @@
                             
                     "value":"muß wohl heut bestellt werden, drum frag‘"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=178,1022,997,70"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=178,1022,997,70"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-13",
                         "type":"Annotation",
@@ -213,10 +186,9 @@
                             
                     "value":"ich schon. Und kühlen wir den Enthusiasmus"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=181,1085,1025,94"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=181,1085,1025,94"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-14",
                         "type":"Annotation",
@@ -228,10 +200,9 @@
                             
                     "value":"nachher mit Eis, um ihn mehr zu entflammen?"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=175,1171,1050,91"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=175,1171,1050,91"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-15",
                         "type":"Annotation",
@@ -243,10 +214,9 @@
                             
                     "value":"Gieb Vorschrift, das andre u. Geschirre giebt"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=174,1249,1039,88"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=174,1249,1039,88"
                         
                     },
-                    
                     {
                         "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json-16",
                         "type":"Annotation",
@@ -258,7 +228,7 @@
                             
                     "value":"Stehely. Bestimme nur die Stunde auch."
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/briefsequenz/2/canvas#xywh=172,1328,961,81"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas#xywh=172,1328,961,81"
                         
                     }
             ]
