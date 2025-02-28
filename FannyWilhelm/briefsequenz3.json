@@ -144,19 +144,6 @@
                     "1"
                 ]
             },
-            "rendering": [
-                {
-                  "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1.xml",
-                  "type": "Text",
-                  "format": "application/xml",
-                  "profile": "http://www.loc.gov/standards/alto/",
-                  "label": {
-                    "en": [
-                      "ALTO XML"
-                    ]
-                  }
-                }
-              ],
             "height": 1540,
             "width": 1267,
             "items": [
@@ -182,7 +169,7 @@
                         }
                     ]
                 }
-            ]         
+            ]
         },
         {
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/2/canvas",
@@ -216,12 +203,6 @@
                             }
                         }
                     ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json",
-                    "type": "AnnotationPage"
                 }
             ]
         },
@@ -258,12 +239,6 @@
                         }
                     ]
                 }
-            ],
-            "annotations": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/3_annolist.json",
-                    "type": "AnnotationPage"
-                }
             ]
         },
         {
@@ -298,12 +273,6 @@
                             }
                         }
                     ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json",
-                    "type": "AnnotationPage"
                 }
             ]
         },
@@ -340,12 +309,6 @@
                         }
                     ]
                 }
-            ],
-            "annotations": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json",
-                    "type": "AnnotationPage"
-                }
             ]
         },
         {
@@ -380,12 +343,6 @@
                             }
                         }
                     ]
-                }
-            ],
-            "annotations": [
-                {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json",
-                    "type": "AnnotationPage"
                 }
             ]
         }
