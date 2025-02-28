@@ -1,14 +1,14 @@
 
         {
             "@context":"http://iiif.io/api/presentation/3/context.json",
-            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json",
+            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
             "type":"AnnotationPage",
             "items":[
                 
                    
                 
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-1",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-1",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -18,11 +18,11 @@
                             
                     "value":"102"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=648,61,62,49"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=648,61,62,49"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-2",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-2",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -32,11 +32,11 @@
                             
                     "value":"Wie geht es Vater u. Beckchen"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=149,121,588,62"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=149,121,588,62"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-3",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-3",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -46,11 +46,11 @@
                             
                     "value":"heut? Ich hoffe daß gute Wetter"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=126,185,647,83"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=126,185,647,83"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-4",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-4",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -60,11 +60,11 @@
                             
                     "value":"hat seine Wirkung gethan u. mei-"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=127,266,647,76"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=127,266,647,76"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-5",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-5",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -74,11 +74,11 @@
                             
                     "value":"ne Werkstatt faßt heut das"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=126,341,610,63"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=126,341,610,63"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-6",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-6",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -88,11 +88,11 @@
                             
                     "value":"ganze lebende Familienbild."
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=122,414,615,56"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=122,414,615,56"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-7",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-7",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -102,11 +102,11 @@
                             
                     "value":"Allso bitten wir Tante Meyer"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=132,477,638,78"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=132,477,638,78"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-8",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-8",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -116,11 +116,11 @@
                             
                     "value":"u. Beers auch, aber wie am"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=128,556,607,61"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=128,556,607,61"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-9",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-9",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -130,11 +130,11 @@
                             
                     "value":"schicklichsten? Wärs nicht am"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=106,634,626,70"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=106,634,626,70"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-10",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-10",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -144,11 +144,11 @@
                             
                     "value":"besten du schriebst ihr eine"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=108,697,624,62"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=108,697,624,62"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-11",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-11",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -158,11 +158,11 @@
                             
                     "value":"Zeile u. meine Botin brächte"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=124,766,634,57"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=124,766,634,57"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-12",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-12",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -172,11 +172,11 @@
                             
                     "value":"sie gleich hin? Oder, soll ich schrei-"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=110,832,663,86"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=110,832,663,86"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-13",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-13",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -186,11 +186,11 @@
                             
                     "value":"ben, wann? Oder hingehn? Sag!"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=103,899,673,103"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=103,899,673,103"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-14",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-14",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -200,11 +200,11 @@
                             
                     "value":"Sorge nur freundlich daß Ihr nicht"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=150,961,633,118"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=150,961,633,118"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-15",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-15",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -214,11 +214,11 @@
                             
                     "value":"zu spät kommt; Bedeutung u."
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=101,1037,602,72"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=101,1037,602,72"
                         
                     },
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json-16",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-16",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -228,7 +228,7 @@
                             
                     "value":"Freude wären mehr als halb ge"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/5/canvas#xywh=117,1102,658,77"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=117,1102,658,77"
                         
                     }
             ]

@@ -213,7 +213,7 @@
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/2_annolist.json",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
                     "type": "AnnotationPage"
                 }
             ]
@@ -254,7 +254,7 @@
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/3_annolist.json",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
                     "type": "AnnotationPage"
                 }
             ]
@@ -295,7 +295,7 @@
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
                     "type": "AnnotationPage"
                 }
             ]
@@ -336,7 +336,7 @@
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/5_annolist.json",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
                     "type": "AnnotationPage"
                 }
             ]
@@ -377,7 +377,7 @@
             ],
             "annotations": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/6_annolist.json",
+                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
                     "type": "AnnotationPage"
                 }
             ]
