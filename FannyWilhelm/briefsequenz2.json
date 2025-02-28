@@ -172,7 +172,7 @@
             ],
             "seeAlso": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/1.xml",
+                    "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/1.xml",
                     "type": "Text",
                     "format": "application/xml",
                     "profile": "http://www.loc.gov/standards/alto",
@@ -220,7 +220,7 @@
             ],
             "seeAlso": [
                 {
-                    "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/2.xml",
+                    "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/2.xml",
                     "type": "Text",
                     "format": "application/xml",
                     "profile": "http://www.loc.gov/standards/alto",
