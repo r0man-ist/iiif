@@ -173,14 +173,9 @@
             "seeAlso": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext1.xml",
-                    "type": "Text",
+                    
                     "format": "application/xml",
-                    "profile": "http://www.loc.gov/standards/alto",
-                    "label": {
-                        "de": [
-                            "Transkription"
-                        ]
-                    }
+                    "profile": "http://www.loc.gov/standards/alto"
                 }
             ]
         },
