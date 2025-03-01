@@ -1,14 +1,14 @@
 
         {
             "@context":"http://iiif.io/api/presentation/3/context.json",
-            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
+            "id":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json",
             "type":"AnnotationPage",
             "items":[
                 
                    
                 
                     {
-                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json-1",
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-1",
                         "type":"Annotation",
                         "motivation":"commenting",
                         "body":
@@ -16,9 +16,261 @@
                             "type":"TextualBody",
                             "format":"text/plain",
                             
-                    "value":"Herrn Wilhelm Henſel"
+                    "value":"Diesmal iſt dein Brief ſo praktiſch, daß ich"
                         },
-                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas#xywh=61,1090,574,96"
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=263,88,1213,107"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-2",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"ordentlich vornehmen muß, um ihn Stück"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=257,180,1277,97"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-3",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"vor Stück zu beantworten. Rebecka hat"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=119,277,1377,81"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-4",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"noch etwas Magenſchmerz übrig, aber wenig."
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=121,374,1409,71"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-5",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Dagegen iſt Vater nicht wohl, ich hoffe, er ſoll"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=117,461,1407,92"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-6",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"uns keinen Queerſtrich machen."
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=115,552,1091,73"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-7",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Der Kuchen kann, wenn du willſt, Butter-"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=127,621,1410,84"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-8",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"kuchen heißen, er iſt ein edler Mann, u."
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=112,708,1411,81"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-9",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"zu Chocolade prächtig zu brauchen, gegen Eis,"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=126,785,1374,94"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-10",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"erkläre ich mich, aus manchen Gründen, die"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=113,871,1396,77"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-11",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"ich dir mündlich auseinander ſetzen werde."
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=124,952,1412,83"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-12",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Wenn nur Vater nicht das Fieber beköm̅t, das"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=109,1018,1396,98"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-13",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"wäre der übelſte Queerſtrich."
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=104,1116,990,84"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-14",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Beſtelle Gans, ich denke wir gehn nicht in dem"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=117,1182,1419,103"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-15",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Wetter, aber kom̅e, wenn du die Gans gerupft"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=117,1279,1409,93"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-16",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"haſt."
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=122,1349,136,94"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-17",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Deine Fanny."
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=743,1365,444,56"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-18",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"Morgen denk ich, um 12"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=117,1438,830,80"
+                        
+                    },
+                    {
+                        "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/4_annolist.json-19",
+                        "type":"Annotation",
+                        "motivation":"commenting",
+                        "body":
+                        {
+                            "type":"TextualBody",
+                            "format":"text/plain",
+                            
+                    "value":"79"
+                        },
+                        "target":"https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/4/canvas#xywh=179,1618,72,91"
                         
                     }
             ]

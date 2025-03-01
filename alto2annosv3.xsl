@@ -3,7 +3,7 @@
     xmlns:alto="http://www.loc.gov/standards/alto/ns-v4#"> <!-- note this namespace may need to change for different versions of ALTO -->
     <xsl:output method="text"/>
     <!-- This needs to resolve to the annotation list: -->
-    <xsl:param name="annoURI" select="'https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json'" />
+    <xsl:param name="annoURI"/>
 
     <!--
         The ALTO may have been generated from the TIFF, if so the jp2 or IIIF image might be a different size. If so
@@ -13,7 +13,7 @@
     <xsl:param name="yRatio" select="'1'"/>
 
     <!-- Links to the canvas for the annotation and the manifest for the within -->
-    <xsl:param name="canvasURI" select="'https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz/1/canvas'" />
+    <xsl:param name="canvasURI" />
     <!--
         Include this if you want to have a within link in the annotation. For example:
         <xsl:param name="manifestURI" select="'http://dams.llgc.org.uk/iiif/3100186/manifest.json'"/>
