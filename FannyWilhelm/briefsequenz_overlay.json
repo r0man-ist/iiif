@@ -170,13 +170,11 @@
                     ]
                 }
             ],
-            "seeAlso": [
-                {
-                    "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/1.xml",
-                    "format": "application/xml",
-                    "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
-                }
-            ]
+            "seeAlso": {
+                "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/1.xml",
+                "format": "application/xml",
+                "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
+            }
         },
         {
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz_overlay/2/canvas",
@@ -212,13 +210,11 @@
                     ]
                 }
             ],
-            "seeAlso": [
-                {
-                    "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/2.xml",
-                    "format": "application/xml",
-                    "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
-                }
-            ]
+            "seeAlso": {
+                "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/2.xml",
+                "format": "application/xml",
+                "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
+            }
         },
         {
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz_overlay/3/canvas",
@@ -254,13 +250,11 @@
                     ]
                 }
             ],
-            "seeAlso": [
-                {
-                    "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/3.xml",
-                    "format": "application/xml",
-                    "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
-                }
-            ]
+            "seeAlso": {
+                "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/3.xml",
+                "format": "application/xml",
+                "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
+            }
         },
         {
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz_overlay/4/canvas",
@@ -296,13 +290,11 @@
                     ]
                 }
             ],
-            "seeAlso": [
-                {
-                    "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/4.xml",
-                    "format": "application/xml",
-                    "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
-                }
-            ]
+            "seeAlso": {
+                "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/4.xml",
+                "format": "application/xml",
+                "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
+            }
         },
         {
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz_overlay/5/canvas",
@@ -338,13 +330,11 @@
                     ]
                 }
             ],
-            "seeAlso": [
-                {
-                    "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/5.xml",
-                    "format": "application/xml",
-                    "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
-                }
-            ]
+            "seeAlso": {
+                "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/5.xml",
+                "format": "application/xml",
+                "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
+            }
         },
         {
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz_overlay/6/canvas",
@@ -380,13 +370,11 @@
                     ]
                 }
             ],
-            "seeAlso": [
-                {
-                    "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/6.xml",
-                    "format": "application/xml",
-                    "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
-                }
-            ]
+            "seeAlso": {
+                "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/6.xml",
+                "format": "application/xml",
+                "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
+            }
         }
     ]
 }
