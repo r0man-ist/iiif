@@ -172,9 +172,9 @@
             ],
             "seeAlso": {
                 "@id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fulltext/1.xml",
-                "format": "application/xml",
+                "format": "application/xml+alto",
                 "profile": "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd"
-            }
+            },
         },
         {
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/briefsequenz_overlay/2/canvas",
