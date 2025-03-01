@@ -171,9 +171,9 @@
                 }
             ],
             "seeAlso" : 
-            { "@id" : "https:\/\/content.staatsbibliothek-berlin.de\/dc\/PPN898144213-00000001.ocr.xml",
+            { "@id" : "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1.xml",
               "format" : "application\/alto+xml",
-              "profile" : "http:\/\/www.loc.gov\/standards\/alto\/alto-v2.0.xsd" },
+              "profile" : "http://www.loc.gov/standards/alto/v4/alto-4-2.xsd" },
             "annotations": [
                 {
                     "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/FannyWilhelm/fullText/1_annolist.json",
