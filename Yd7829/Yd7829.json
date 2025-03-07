@@ -105,9 +105,17 @@
                                         "profile": "http://iiif.io/api/image/2/level2.json"
                                     }
                                 ]
-                            }
-                        }
-                    ]
+                            },
+                            "seeAlso": [
+        {
+            "id": "https://collections.library.yale.edu/manifests/17384131",
+            "type": "Manifest",
+            "label": {
+                "de": [
+                    "Einzelmanifest"
+                ]
+            }
+        }]
                 }
             ],
             "id": "https://raw.githubusercontent.com/r0man-ist/iiif/refs/heads/main/Yd7829/Yd7829/1/canvas",
