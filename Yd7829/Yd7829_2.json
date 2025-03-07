@@ -259,7 +259,7 @@
             ],
             "height": 1653,
             "width": 2265,
-            { "partOf": [ { "id": "https://collections.library.yale.edu/manifests/17384131", "type": "Manifest" } ] }
+            "partOf": [ { "id": "https://collections.library.yale.edu/manifests/17384131", "type": "Manifest" } ],
 
             "metadata": [
                 {
